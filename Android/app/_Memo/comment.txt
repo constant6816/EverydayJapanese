@@ -1,0 +1,11 @@
+// ----------------------------------------------------
+// Public Outter Class, Struct, Enum, Interface
+// Public Inner Class, Struct, Enum, Interface
+// companion object
+// Public Constant
+// Private Constant
+// Public Variable
+// Private Variable
+// Override Method or Basic Method
+// Public Method
+// Private Method

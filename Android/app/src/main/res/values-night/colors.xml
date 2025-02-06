@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg0">@color/black100</color>
+    <color name="bg1">@color/black90</color>
+    <color name="bg2">@color/black80</color>
+    <color name="bg3">@color/black70</color>
+    <color name="bg4">@color/black60</color>
+    <color name="bg5">@color/black50</color>
+    <color name="bg6">@color/black40</color>
+    <color name="bg7">@color/black30</color>
+    <color name="bg8">@color/black20</color>
+    <color name="bg9">@color/black10</color>
+    <color name="bg10">@color/black0</color>
+
+    <color name="fg0">@color/black0</color>
+    <color name="fg1">@color/black10</color>
+    <color name="fg2">@color/black20</color>
+    <color name="fg3">@color/black30</color>
+    <color name="fg4">@color/black40</color>
+    <color name="fg5">@color/black50</color>
+    <color name="fg6">@color/black60</color>
+    <color name="fg7">@color/black70</color>
+    <color name="fg8">@color/black80</color>
+    <color name="fg9">@color/black90</color>
+    <color name="fg10">@color/black100</color>
+
+    <color name="list_selection">#FF202020</color>
+
+</resources>

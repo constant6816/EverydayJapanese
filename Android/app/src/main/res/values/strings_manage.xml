@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="permlab_readAttendance">permlab_readAttendance</string>
+    <string name="permdesc_readAttendance">permdesc_readAttendance</string>
+    <string name="permlab_writeAttendance">permlab_writeAttendance</string>
+    <string name="permdesc_writeAttendance">permdesc_writeAttendance</string>
+
+</resources>

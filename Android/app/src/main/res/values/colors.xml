@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 기본 -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="dkgray">#FF444444</color>
+    <color name="gray">#FF888888</color>
+    <color name="ltgray">#FFAAAAAA</color>
+    <color name="xltgray">#FFCCCCCC</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="clear">#00FFFFFF</color>
+
+    <color name="bg0">@color/black0</color>
+    <color name="bg1">@color/black10</color>
+    <color name="bg2">@color/black20</color>
+    <color name="bg3">@color/black30</color>
+    <color name="bg4">@color/black40</color>
+    <color name="bg5">@color/black50</color>
+    <color name="bg6">@color/black60</color>
+    <color name="bg7">@color/black70</color>
+    <color name="bg8">@color/black80</color>
+    <color name="bg9">@color/black90</color>
+    <color name="bg10">@color/black100</color>
+
+    <color name="fg0">@color/black100</color>
+    <color name="fg1">@color/black90</color>
+    <color name="fg2">@color/black80</color>
+    <color name="fg3">@color/black70</color>
+    <color name="fg4">@color/black60</color>
+    <color name="fg5">@color/black50</color>
+    <color name="fg6">@color/black40</color>
+    <color name="fg7">@color/black30</color>
+    <color name="fg8">@color/black20</color>
+    <color name="fg9">@color/black10</color>
+    <color name="fg10">@color/black0</color>
+
+    <color name="fg_black0">@color/black100</color>
+    <color name="fg_black1">@color/black90</color>
+    <color name="fg_black2">@color/black80</color>
+    <color name="fg_black3">@color/black70</color>
+    <color name="fg_black4">@color/black60</color>
+    <color name="fg_black5">@color/black50</color>
+    <color name="fg_black6">@color/black40</color>
+    <color name="fg_black7">@color/black30</color>
+    <color name="fg_black8">@color/black20</color>
+    <color name="fg_black9">@color/black10</color>
+    <color name="fg_black10">@color/black0</color>
+
+    <color name="fg_white0">@color/black0</color>
+    <color name="fg_white1">@color/black10</color>
+    <color name="fg_white2">@color/black20</color>
+    <color name="fg_white3">@color/black30</color>
+    <color name="fg_white4">@color/black40</color>
+    <color name="fg_white5">@color/black50</color>
+
+    <color name="fg_brand_xxlight">#FFF5DFFC</color>
+    <color name="fg_brand_xlight">#FFE5C1FB</color>
+    <color name="fg_brand_light">#FFD6A4FA</color>
+    <color name="fg_brand">#FFAA6DF8</color>
+    <color name="fg_brand_dark">#FF5C37A7</color>
+    <color name="fg_brand_xdark">#FF3F2582</color>
+    <color name="fg_brand_xxdark">#FF2B1A6B</color>
+
+    <color name="fg_red_light">#FFFFAAAA</color>
+    <color name="fg_red">#FFFF7373</color>
+    <color name="fg_red_dark">#FFBF4343</color>
+    <color name="fg_green">#FF6DB95A</color>
+    <color name="fg_orange">#FFFFC13F</color>
+    <color name="fg_blue_light">#FFAAAAFF</color>
+    <color name="fg_blue">#FF7373FF</color>
+    <color name="fg_blue_dark">#FF4343BF</color>
+
+    <color name="fg_link">#FF3F75FF</color>
+
+    <color name="bg_kakao">#FFF3E24E</color>
+    <color name="bg_apple">@color/bg3</color>
+    <color name="bg_naver">#FF5FCC69</color>
+    <color name="bg_google">@color/bg3</color>
+
+    <color name="fg_green_0">#FFD0FFD0</color>
+    <color name="fg_green_1">#FFB0FFB0</color>
+    <color name="fg_green_2">#FF80FF80</color>
+    <color name="fg_green_3">#FF40FF40</color>
+    <color name="fg_green_4">#FF00FF00</color>
+    <color name="fg_green_5">#FF04E301</color>
+    <color name="fg_green_6">#FF03C700</color>
+    <color name="fg_green_7">#FF02AA01</color>
+    <color name="fg_green_8">#FF008E00</color>
+    <color name="fg_green_9">#FF017101</color>
+
+    <color name="black100">#FF000000</color>
+    <color name="black90">#FF171B20</color>
+    <color name="black80">#FF252B34</color>
+    <color name="black70">#FF323B49</color>
+    <color name="black60">#FF5B6470</color>
+    <color name="black50">#FFBEC0C7</color>
+    <color name="black40">#FFCACDD6</color>
+    <color name="black30">#FFE6E8EA</color>
+    <color name="black20">#FFF6F7F8</color>
+    <color name="black10">#FFFCFCFC</color>
+    <color name="black0">#FFFFFFFF</color>
+
+    <!-- Custom -->
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="fg_black_0_weak_alpha">#40000000</color>
+    <color name="fg_black_0_middle_alpha">#80000000</color>
+    <color name="fg_black_0_strong_alpha">#A0000000</color>
+    <color name="fg_brand_light_middle_alpha">#80D6A4FA</color>
+
+    <color name="list_selection">#FFF0F0F0</color>
+    <color name="hint_text">@color/fg6</color>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/space_xxs"
+        android:paddingBottom="@dimen/space_xxs">
+
+        <ImageView
+            android:id="@+id/imageview_icon"
+            android:layout_width="@dimen/icon_size_xs"
+            android:layout_height="@dimen/icon_size_xs"
+            android:layout_marginLeft="@dimen/space_m" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/space_m"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textview_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/font_p1"
+                android:textColor="@color/fg1"
+                />
+
+            <TextView
+                android:id="@+id/textview_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/font_p2"
+                android:textColor="@color/fg3"
+                />
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:id="@+id/view_seperator"
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="@dimen/space_xs"
+        android:layout_height="1dp"
+        android:layout_gravity="bottom"
+        android:background="@color/fg7" />
+</FrameLayout>

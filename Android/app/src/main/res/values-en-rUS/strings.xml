@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--툴에 의해서 자동으로 generate 되는 파일입니다.-->
+<resources>
+	<!-- 공통 문구 -->
+	<string name="common_save">Save</string>
+	<string name="common_cancel">Cancel</string>
+	<string name="common_retry">Retry</string>
+	<string name="common_no">No</string>
+	<string name="common_yes">Yes</string>
+	<string name="common_never_watch_again">Don\&apos;t show again</string>
+	<string name="common_close">Close</string>
+	<string name="common_quit_the_app">Quit</string>
+	<string name="common_latest_version">Latest version</string>
+	<string name="common_later">Later</string>
+	<string name="common_ok">Ok</string>
+	<string name="common_no_name">No name</string>
+	<string name="common_etc">Etc</string>
+	<string name="common_delete">Delete</string>
+	<string name="common_select">Select</string>
+	<string name="common_video_select">Video selection</string>
+	<string name="common_insert">Insert</string>
+	<string name="common_modify">Edit</string>
+	<string name="common_simple_delete">Deleted</string>
+	<string name="common_register">Register</string>
+	<string name="common_add">Add</string>
+	<string name="common_total">Total</string>
+	<string name="common_hometown">Hometown</string>
+	<string name="common_block">block</string>
+	<string name="common_next">Next</string>
+	<string name="common_continue">Continue</string>
+	<string name="common_goto_setting">Go to setting</string>
+
+	<!-- 기타 -->
+	<string name="service_withdrawal_instructions">Account Deletion Information</string>
+	<string name="id_will_be_deleted_all_data_will_be_irrecoverable">If you delete your account, your ID and data will be deleted and unrecoverable.\n\nOnce deleted, Boost accumulated in your account will automatically expire and will not be refunded.\n\nIn accordance to E-Commerce laws, transaction records that must be preserved will be kept for 1 year.\n\n Re-registration with the same email address is possible after account deletion. \n\n But in this case, You won\&apos;t be able to re-participate in new member events using the same email address.</string>
+	<string name="tell_us_reason_for_your_withdrawal">Let us know why you are deleting your account. It will be used to improve our service.</string>
+	<string name="i_donot_use_it_often">I don\&apos;t use it often</string>
+	<string name="i_want_to_delete_my_personal_information">I want to delete my personal information records</string>
+	<string name="inconvenient_difficult_to_use">The app has too many issues and is inconvenient to use</string>
+	<string name="please_tell_me_why">Please give us a detailed reason why you\&apos;re deleting your account.</string>
+	<string name="i_have_read_instructions_agree">I have read the instructions and agree to them.</string>
+	<string name="withdrawal">Delete Account</string>
+	<string name="sir">%s</string>
+	<string name="welcome">Welcome</string>
+	<string name="edit_profile">Edit profile</string>
+	<string name="marketing_push_alarm">Receive marketing notifications</string>
+	<string name="you_can_receive_notifications">Receive event and benefit news notifications.</string>
+	<string name="logout">Log out</string>
+	<string name="app_info">App Information</string>
+	<string name="lastest_version">Latest version %s</string>
+	<string name="dialog_account_delete_description">Are you sure you want to delete your account?\nAll data will be deleted.</string>
+	<string name="delete_account">Delete Account</string>
+	<string name="no_email_information">No email information</string>
+	<string name="profile_error_message_within_xx_letters">Please enter no more than %d characters</string>
+	<string name="app_name">Japanese Everyday</string>
+	<string name="tab_home">Home</string>
+	<string name="tab_chatting">Chatting</string>
+	<string name="tab_setting">Settings</string>
+	<string name="company_name">Constant</string>
+	<string name="login_google">Sign in with Google</string>
+	<string name="login_kakao">Sign in with Kakao talk</string>
+	<string name="login_naver">Sign in with Naver</string>
+	<string name="login_apple">Sign in with Apple</string>
+	<string name="welcome_to_app">Welcome to %s</string>
+	<string name="sample">Sample</string>
+	<string name="notices">Notices</string>
+	<string name="required_updates">Required updates</string>
+	<string name="update_enjoy_new">Update to enjoy the new %s.</string>
+	<string name="update">Update</string>
+	<string name="login_failed_please_try_again">Login failed. Please try again.</string>
+	<string name="no_contents">No available missions.</string>
+	<string name="terms_of_service">terms of service</string>
+	<string name="privacy_policy">collection and use of personal information</string>
+	<string name="dialog_logout_title">Would you like to log out?</string>
+	<string name="open_license">Open source license</string>
+	<string name="no_response_from_server">Server unresponsive.</string>
+	<string name="logged_out_because_login_period_has_expired">Session has expired. \nPlease log in again.</string>
+	<string name="logged_out_because_logged_in_another_device">You\&apos;ve been logged out becase your account was used on another device. Please log back in.</string>
+	<string name="network_connection_is_poor">Network connection unstable.\nPlease try again.</string>
+	<string name="to_use_the_profile_editing_function_please_allow">To use the profile editing function, please allow access to \&apos;Photo/Video\&apos;. You can allow access to \&apos;Photos/Videos\&apos; in the app settings. Proceed to app settings?</string>
+	<string name="already_have_account_signed_up">Account with the same email already exists</string>
+	<string name="you_signed_up_with_same_email">You are already signed up with %s using the same email. Please log in with %s.</string>
+	<string name="account_you_last_logged_in">The last account you logged in with!</string>
+	<string name="login_subscription_explanation">By signing up, you agree to the terms of service and the collection and use of personal information.</string>
+	<string name="nickname">Nickname</string>
+	<string name="picture_take">Take picture</string>
+	<string name="picture_select">Choose From Library</string>
+	<string name="picture_delete">Delete Profile Picture</string>
+	<string name="please_enter_without_spaces">Please enter without spaces</string>
+	<string name="permission_granted">Grant Permissions</string>
+	<string name="denied_permission_to_use_camera">Denied permissions for camera access. To use the function, please allow permissions in Phone Settings &gt; Application Manager.</string>
+	<string name="undo_change">Quit Editing</string>
+	<string name="are_you_sure_you_want_to_cancel">Would you like to cancel?\nChanges you made will not be saved.</string>
+	<string name="camera_access_permission_required_for_article">Camera access permission is required for squat motion analysis.</string>
+	<string name="camera_access_permission_required_for_profile">Camera access permission is required to edit your profile.</string>
+	<string name="maximum_number_of_selections_has_been_exceeded">The maximum number of choices has been exceeded.</string>
+	<string name="writing">writing</string>
+	<string name="title">title</string>
+	<string name="content">detail</string>
+	<string name="see_more">see more</string>
+	<string name="views">views</string>
+	<string name="please_enter_title">Please enter a title</string>
+	<string name="please_enter_content">Please enter your details</string>
+	<string name="you_can_see_messages_for_debugging_in_real_time">If you allow drawing on top of other apps, you can check debugging messages in real time.</string>
+	<string name="you_can_input_max">You can enter up to %d characters.</string>
+	<string name="there_is_no_board">There are no posts</string>
+	<string name="gift_card_empty_history">No history.</string>
+	<string name="popup_image_file_over_max_count">The number of photos that can be attached has been exceeded.</string>
+	<string name="dialog_permission_need_title">Allow permissions</string>
+	<string name="setting_my_info_profile_edit_default">Default Profile Image</string>
+	<string name="dialog_gallery_permission_need_description">Please allow gallery access</string>
+	<string name="input_nickname">Please input nickname</string>
+	<string name="there_is_no_chat">There is no record of the conversation</string>
+	<string name="do_chat">Chatting</string>
+	<string name="my_neighborhood_settings">My neighborhood settings</string>
+	<string name="app_access_permission">App access permission information</string>
+	<string name="permissions_below_require">When using Attendance service
+The permissions below are required.</string>
+	<string name="notification">Notification</string>
+	<string name="you_can_receive_notifications_for_chatting">You can receive notifications about chat.</string>
+	<string name="camera">Notification</string>
+	<string name="you_can_upload_picture_camera">You can take a photo on the bulletin board and write a post right away.</string>
+	<string name="gallery">Gallery</string>
+	<string name="you_can_upload_picture_gallery">You can upload photos from your gallery on the bulletin board.</string>
+	<string name="location">Location</string>
+	<string name="operate_bulletin_boards_neighborhood">We operate bulletin boards for each neighborhood.</string>
+	<string name="you_can_change_permissions">You can use the app even if you do not allow it, but there are restrictions on using the service. You can change permissions in \&apos;Settings\&apos; &gt; \&apos;Attendance\&apos;.</string>
+	<string name="restrictions_service">There are restrictions on use of the service.</string>
+	<string name="yesterday">Yesterday</string>
+	<string name="the_day_before_yesterday">The day before yesterday</string>
+	<string name="before_day">%d days ago</string>
+	<string name="before_hour">%d hours ago</string>
+	<string name="before_minute">%d minutes ago</string>
+	<string name="about_before_minute">about %d minutes ago</string>
+	<string name="report_chatter">Would you like to report the person you are chatting with?</string>
+	<string name="block_opponent">After reviewing whether or not the policy is violated, the other party is blocked.</string>
+	<string name="block_chatter">Do you want to block someone you\&apos;re chatting with?</string>
+	<string name="cannot_chat_each">If you block people, you won\&apos;t be able to see each other\&apos;s posts and you won\&apos;t be able to chat with each other.</string>
+	<string name="blocked">blocked</string>
+	<string name="try_chat_block_user">You attempted to chat with a blocked user.</string>
+	<string name="do_you_not_want_see">Do you not want to see all posts by that user?</string>
+
+	<string name="board_please_enter_comment">Enter a comment</string>
+	<string name="board_comments_all_view">View all %d comments</string>
+	<string name="board_question_delete_post">Delete post?</string>
+	<string name="board_question_delete_comment">Delete comment?</string>
+	<string name="board_cannot_recover">Deleted content cannot be restored</string>
+	<string name="board_deleted">Deleted</string>
+	<string name="board_declaration">Report</string>
+	<string name="board_reported">Your report has been submitted</string>
+	<string name="board_board">Board</string>
+	<string name="board_talk_exercise_mates">Talk to exercise mates</string>
+	<string name="board_upload">Upload</string>
+	<string name="board_conversation_exercise_mates">Talk to exercise mates</string>
+	<string name="board_comment">Comment</string>
+	<string name="board_view_all_comments">View all comments</string>
+	<string name="board_more_comments">View more comments</string>
+	<string name="board_deleted_not_exist">The post has been deleted or does not exist.</string>
+	<string name="board_unknown_user">Unknown user</string>
+	<string name="board_post_deleted">The post has been deleted</string>
+	<string name="board_will_report_post">Report post?</string>
+	<string name="board_will_delete_article_after_check">Posts are deleted after reviewing the violation of the board policy.</string>
+	<string name="board_report">Report</string>
+	<string name="board_will_report_comment">Report comment?</string>
+	<string name="board_will_delete_comment_after_check">Comments are deleted after reviewing the violation of the board policy.</string>
+	<string name="board_upload_picture">Upload photos and videos</string>
+	<string name="board_comment_registered">Comments have been registered</string>
+	<string name="board_youtube_link_title">Insert YouTube link</string>
+	<string name="board_youtube_link_input_hint">Please enter YouTube address</string>
+	<string name="board_youtube_link_error_message">Please enter a valid address</string>
+	<string name="board_youtube_link_max_size">You can upload up to 5 YouTube links</string>
+	<string name="board_youtube_already_insert">This is the YouTube link already inserted.</string>
+	<string name="max_video_size_exceed">The video size can be raised to 15MB</string>
+	<string name="board_upload_one_video">Only one video can be uploaded</string>
+	<string name="ceo">Ceo</string>
+	<string name="coceo">Co Ceo</string>
+	<string name="member">Member</string>
+	<string name="not_member">Not a member</string>
+	<string name="no_picture">No picture</string>
+	<string name="no_uploaded_picture">There is no uploaded picture</string>
+	<string name="uploading">uploading</string>
+	<string name="completed_upload">Completed to upload</string>
+	<string name="no_club">No club</string>
+	<string name="register">Register</string>
+	<string name="withdrawn">Withdrawn</string>
+	<string name="deleted">Deleted</string>
+	<string name="promoted_ceo">Promoted to ceo</string>
+	<string name="promoted_coceo">Promoted to coceo</string>
+	<string name="demoted_member">Demoted to member</string>
+	<string name="kick_out">Kick out</string>
+	<string name="registered">Registered</string>
+	<string name="club_deleted">The meeting has been deleted</string>
+	<string name="should_promote_ceo">If you are promoted to representative, you will be demoted to co-representative. Should I still promote him to representative?</string>
+	<string name="should_promote_coceo">Should I promote him to co-representative?</string>
+	<string name="should_promote_member">Should I demote him to a member?</string>
+	<string name="kick_out_member">Once a member is expelled, they cannot join the group. Should I still expel the member?</string>
+	<string name="cannot_join_kicked_out">I can\&apos;t join because I was kicked out of the group.</string>
+	<string name="cannot_join_withdraw">You cannot join because you have left the group.</string>
+	<string name="ceo_cannot_withdraw">The representative cannot withdraw. You must hand over the representative to withdraw.</string>
+	<string name="once_withdraw_cannot_join">Once you withdraw, you cannot join the group. Do you still want to cancel?</string>
+	<string name="only_one_person">There is only 1 person in the group, so if you leave, the meeting will be deleted because there will be no one. Do you still want to cancel?</string>
+	<string name="cannot_set_myself">I can\&apos;t set it up myself</string>
+	<string name="no_right_control_member">I have no authority to control members.</string>
+	<string name="no_right_control">I have no control</string>
+	<string name="my_club">My club</string>
+	<string name="album">Album</string>
+	<string name="no_right_access">I don\&apos;t have access because I\&apos;m not a member.</string>
+	<string name="no_registered_club">There are no meetings joined</string>
+	<string name="club_name">Club name</string>
+	<string name="upload_club_picture">Upload club picture</string>
+	<string name="ratio_two_one">Ratio 2:1</string>
+	<string name="create_club">Create club</string>
+	<string name="explain_club">Please explain club</string>
+	<string name="one_to_one_chatting">1:1 chat</string>
+	<string name="no_published_picture">There are no published photos</string>
+	<string name="cannot_chat_myself">I can\&apos;t chat with myself</string>
+	<string name="my">My</string>
+	<string name="club">Club</string>
+	<string name="board">Board</string>
+	<string name="input_introduction">Please enter your introduction</string>
+	<string name="introduction">Introduction</string>
+	<string name="operators">Operator</string>
+	<string name="manager">Manager</string>
+	<string name="member_count">Member(%d)</string>
+	<string name="input_club_name">Please enter the meeting name</string>
+	<string name="no_total_boards">There are no full posts</string>
+	<string name="no_neighborhood_boards">There are no posts in my neighborhood</string>
+	<string name="edit">Edit</string>
+	<string name="downloaded_selected_photos">downloaded the selected photos.</string>
+	<string name="download_failed">Download failed</string>
+	<string name="deleted_selected_photos">deleted the selected photos.</string>
+	<string name="only_ceo_coceo_can_edit">Only the representative or co-representative can edit.</string>
+	<string name="no_introduction_written_by_user">There is no introduction written by the user.</string>
+	<string name="cannot_find_current_location">I can\&apos;t find my current location</string>
+	<string name="really_delete">Do you want to delete?</string>
+	<string name="saved">saved</string>
+	<string name="input_text">Please enter your text</string>
+	<string name="must_attach_at_least_one_file">You must attach at least one file</string>
+	<string name="decorate_your_story">Decorate your story</string>
+	<string name="monday">monday</string>
+	<string name="tuesday">tuesday</string>
+	<string name="wednesday">wednesday</string>
+	<string name="thursday">thursday</string>
+	<string name="friday">friday</string>
+	<string name="saturday">saturday</string>
+	<string name="sunday">sunday</string>
+	<string name="today">today</string>
+	<string name="access_level_public">Public</string>
+	<string name="access_level_private">Private</string>
+	<string name="downloading">Downloading</string>
+	<string name="finished_download">Finished to download</string>
+	<string name="view_statistics">View statistics</string>
+	<string name="company">Company</string>
+	<string name="company_location">Company Location</string>
+	<string name="need_set_company_photo">I need to set a photo for my company</string>
+	<string name="need_set_company_location">You need to set the location of your company</string>
+	<string name="impossible_within_hour">It is impossible to leave work within an hour.</string>
+	<string name="can_enter_time_from_company_location">You can enter your commuting time from your company location. It must be within 100 meters.</string>
+	<string name="location_confirmation">Location confirmation</string>
+	<string name="business_hours">Business hours : %s</string>
+	<string name="checkout">Going home</string>
+	<string name="cancel_attendance">cancel attendance</string>
+	<string name="checkin">check in</string>
+	<string name="set_company_location">Set your company location</string>
+	<string name="check_location">Check my location</string>
+	<string name="statistics">statistics</string>
+	<string name="daily">Daily</string>
+	<string name="weekly">Weekly</string>
+	<string name="monthly">Monthly</string>
+	<string name="personal">Personal</string>
+	<string name="total">Total</string>
+	<string name="statistics_of">Statistics of %s</string>
+	<string name="no_records">no records</string>
+	<string name="no_record_attendance">There is no record of attendance</string>
+	<string name="month">%d month</string>
+	<string name="year">%d year</string>
+	<string name="goto_register">go to register company</string>
+	<string name="add_club">add company</string>
+	<string name="search_company_name">Search for the company name</string>
+	<string name="share_kakaotalk">Share on KakaoTalk</string>
+	<string name="to_manage_attendance_install">To manage attendance, install the app below and use it by registering the company name \&apos;%s\&apos;\n\nAndroid\n%s\n\niOS\n%s</string>
+	<string name="manual_input">Manual input</string>
+	<string name="approve">Approve</string>
+	<string name="reject">Reject</string>
+	<string name="approval">Approval</string>
+	<string name="request_for_approval">%s requested payment for work from %s to %s in %s</string>
+	<string name="start_time">Commute time</string>
+	<string name="end_time">After work hours</string>
+	<string name="future_dates_cannot">Future dates cannot be entered directly.</string>
+	<string name="start_time_should_earlier">The start time should be earlier than the end time.</string>
+	<string name="request_approval">I sent a payment request</string>
+	<string name="no_approval">There is nothing to approval</string>
+	<string name="no_data">no data</string>
+	<string name="hour_minute">%dh %02dm</string>
+	<string name="minute">%02dm</string>
+	<string name="add_company">Add a company</string>
+	<string name="already_joined_company">This is a company I have already joined.</string>
+	<string name="plus_add_company">+ Add a company</string>
+	<string name="help">help</string>
+	<string name="working_color">Personal tab - When you select Month, this is the color for each working hour displayed on the calendar.</string>
+	<string name="status_text">The following is a status text about commuting to and from work.</string>
+	<string name="rule_descriptions">Working hours must be at least 30 minutes and less than 16 hours. So, if it exceeds 16 hours, it is considered as if you forgot to take pictures, and a \&apos;Cancel Attendance\&apos; button appears. If you forgot to clock in and out, you can \&apos;directly enter\&apos; it. In that case, approval from the representative or co-representative is required to be included in the total.</string>
+	<string name="checking_in">On the way to work</string>
+	<string name="attendance_completed">Attendance completed</string>
+	<string name="attendance_cancellation">Attendance cancellation</string>
+	<string name="waiting_approval">Waiting for payment</string>
+	<string name="approval_rejection">Payment rejection</string>
+	<string name="less_1_hour">Working less than 1 hour</string>
+	<string name="over_1_hour">1 to 2 hour workday</string>
+	<string name="over_2_hour">2 to 3 hour workday</string>
+	<string name="over_3_hour">3 to 4 hour workday</string>
+	<string name="over_4_hour">4 to 5 hour workday</string>
+	<string name="over_5_hour">5 to 6 hour workday</string>
+	<string name="over_6_hour">6 to 7 hour workday</string>
+	<string name="over_7_hour">7 to 8 hour workday</string>
+	<string name="over_8_hour">8 to 9 hour workday</string>
+	<string name="over_9_hour">Working more than 9 hours</string>
+	<string name="only_check_in">If you only filmed going to work</string>
+	<string name="normal_check_in_out">If you take pictures of your arrival and departure from work normally,</string>
+	<string name="missing_check_out">If you press Cancel Attendance more than 16 hours after recording your attendance.</string>
+	<string name="manual_input_approval">When payment is approved by the representative and co-representative after \&apos;direct input\&apos;</string>
+	<string name="manual_input_waiting">If the representative and co-representative have not yet approved payment after \&apos;direct input\&apos;</string>
+	<string name="manual_input_reject">If the CEO and co-representative reject the request after \&apos;direct input\&apos;</string>
+	<string name="add_company_short">Add a company</string>
+	<string name="register_company">Register a company</string>
+	<string name="plus_register_company">+ Register a company</string>
+	<string name="have_to_create_first">If the CEO has not created a company, he or she must create one first.</string>
+	<string name="can_make_company">To create a company, you must fill out all four items: company name, photo, location, and description.</string>
+	<string name="attendance_way_description">When you clock in and out of the company, press the (1) or (2) button to record your attendance.\nWhen a member commutes to and from work, a commutation notification is sent to the CEO and co-representatives.\n(3)\n\n Since the \&apos;Go to work\&apos; and \&apos;Leave work\&apos; buttons work with GPS, the company location set by the CEO must be the same.\nIf it is not the same, the commute/leave button does not work. No.\n(4)\n\nWorking time must be at least 30 minutes and less than 16 hours.\nIf it exceeds 16 hours, it is considered as if you forgot to take pictures, and the (5) button appears.\n If you forgot and failed to process your attendance, you can enter it manually using the (6) button.\nIn that case, you must obtain approval from the CEO or co-representative to be included in the total.</string>
+	<string name="checkout_processed">Leaving work was processed normally.</string>
+	<string name="checkin_processed">Attendance was processed normally.</string>
+	<string name="want_to_register">Do you want to register to %s?</string>
+	<string name="approved">Approved</string>
+	<string name="rejected">Rejected</string>
+	<string name="request_join">%s requested payment to join %s.</string>
+	<string name="requested_join_complete_after_approve">I requested membership from the representative/co-representative of %s.\nOnce the representative/co-representative approves, registration is completed.</string>
+	<string name="approval_description">There are two cases where a payment request comes in:\n1. When a member \&apos;directly inputs\&apos; working hours\n2. When trying to join our company\n\nIn that case, approval must be given for it to be applied.\nWhen a general member requests approval, the approval request is sent to the representative/co-representative.</string>
+	<string name="right_description">The rights for each member are as follows\nRepresentative: Co-representative, authority to promote/demotion/expulse members, authority to approve, authority to view statistics\nCo-Representative: authority to promote/demotion/expulse members, authority to approve, authority to view statistics \nMember: None</string>
+	<string name="need_location_permission">need location permission to commute to work</string>
+	<string name="already_requesting_register">already requesting to register</string>
+	<string name="waiting_requesting_approval">Waiting for approval</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

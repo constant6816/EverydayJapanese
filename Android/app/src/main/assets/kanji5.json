@@ -1,0 +1,6209 @@
+[
+    {
+        "kanji": "可",
+        "hanja": "",
+        "eumhun": "옳을 가",
+        "jpSound": "か",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "可否",
+                "sound": "かひ",
+                "meaning": "가부"
+            },
+            {
+                "word": "可能",
+                "sound": "かのう",
+                "meaning": "가능"
+            },
+            {
+                "word": "許可",
+                "sound": "きょか",
+                "meaning": "허가"
+            }
+        ]
+    },
+    {
+        "kanji": "仮",
+        "hanja": "假",
+        "eumhun": "거짓 가",
+        "jpSound": "か、け",
+        "jpMeaning": "かり",
+        "examples": [
+            {
+                "word": "仮面",
+                "sound": "かめん",
+                "meaning": "가면"
+            },
+            {
+                "word": "仮定",
+                "sound": "かてい",
+                "meaning": "가정"
+            },
+            {
+                "word": "仮装",
+                "sound": "かそう",
+                "meaning": "가장"
+            },
+            {
+                "word": "仮病",
+                "sound": "けびょう",
+                "meaning": "꾀병"
+            },
+            {
+                "word": "仮の住まい",
+                "sound": "かりのすまい",
+                "meaning": "임시 거처"
+            },
+            {
+                "word": "仮に",
+                "sound": "かりに",
+                "meaning": "만일, 임시로"
+            },
+            {
+                "word": "仮処分",
+                "sound": "かりしょぶん",
+                "meaning": "가처분"
+            }
+        ]
+    },
+    {
+        "kanji": "価",
+        "hanja": "價",
+        "eumhun": "값 가",
+        "jpSound": "か",
+        "jpMeaning": "あたい",
+        "examples": [
+            {
+                "word": "価値",
+                "sound": "かち",
+                "meaning": "가치"
+            },
+            {
+                "word": "価格",
+                "sound": "かかく",
+                "meaning": "가격"
+            },
+            {
+                "word": "評価",
+                "sound": "ひょうか",
+                "meaning": "평가"
+            },
+            {
+                "word": "価",
+                "sound": "あたい",
+                "meaning": "값"
+            }
+        ]
+    },
+    {
+        "kanji": "刊",
+        "hanja": "",
+        "eumhun": "새길 간",
+        "jpSound": "かん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "刊行",
+                "sound": "かんこう",
+                "meaning": "간행"
+            },
+            {
+                "word": "発刊",
+                "sound": "はっかん",
+                "meaning": "발간"
+            },
+            {
+                "word": "週刊",
+                "sound": "しゅうかん",
+                "meaning": "주간"
+            }
+        ]
+    },
+    {
+        "kanji": "幹",
+        "hanja": "",
+        "eumhun": "줄기 간",
+        "jpSound": "かん",
+        "jpMeaning": "みき",
+        "examples": [
+            {
+                "word": "幹線",
+                "sound": "かんせん",
+                "meaning": "간선"
+            },
+            {
+                "word": "幹事",
+                "sound": "かんじ",
+                "meaning": "간사"
+            },
+            {
+                "word": "根幹",
+                "sound": "こんかん",
+                "meaning": "근간"
+            },
+            {
+                "word": "幹",
+                "sound": "みき",
+                "meaning": "줄기"
+            }
+        ]
+    },
+    {
+        "kanji": "減",
+        "hanja": "",
+        "eumhun": "덜 감",
+        "jpSound": "げん",
+        "jpMeaning": "へる、へらす",
+        "examples": [
+            {
+                "word": "減少",
+                "sound": "げんしょう",
+                "meaning": "감소"
+            },
+            {
+                "word": "増減",
+                "sound": "ぞうげん",
+                "meaning": "증감"
+            },
+            {
+                "word": "加減",
+                "sound": "かげん",
+                "meaning": "가감"
+            },
+            {
+                "word": "減る",
+                "sound": "へる",
+                "meaning": "줄다"
+            },
+            {
+                "word": "目減り",
+                "sound": "めべり",
+                "meaning": "분량 감소"
+            },
+            {
+                "word": "減らす",
+                "sound": "へらす",
+                "meaning": "줄이다"
+            },
+            {
+                "word": "人減らし",
+                "sound": "ひとべらし",
+                "meaning": "인원 감축"
+            }
+        ]
+    },
+    {
+        "kanji": "講",
+        "hanja": "",
+        "eumhun": "욀 강",
+        "jpSound": "こう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "講義",
+                "sound": "こうぎ",
+                "meaning": "강의"
+            },
+            {
+                "word": "講演",
+                "sound": "こうえん",
+                "meaning": "강연"
+            },
+            {
+                "word": "聴講",
+                "sound": "ちょうこう",
+                "meaning": "청강"
+            }
+        ]
+    },
+    {
+        "kanji": "個",
+        "hanja": "",
+        "eumhun": "낱 개",
+        "jpSound": "こ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "個人",
+                "sound": "こじん",
+                "meaning": "개인"
+            },
+            {
+                "word": "個性",
+                "sound": "こせい",
+                "meaning": "개성"
+            },
+            {
+                "word": "一個",
+                "sound": "いっこ",
+                "meaning": "한 개"
+            }
+        ]
+    },
+    {
+        "kanji": "居",
+        "hanja": "",
+        "eumhun": "살 거",
+        "jpSound": "きょ",
+        "jpMeaning": "いる",
+        "examples": [
+            {
+                "word": "居住",
+                "sound": "きょじゅう",
+                "meaning": "거주"
+            },
+            {
+                "word": "居室",
+                "sound": "きょしつ",
+                "meaning": "거실"
+            },
+            {
+                "word": "住居",
+                "sound": "じゅうきょ",
+                "meaning": "주거"
+            },
+            {
+                "word": "居る",
+                "sound": "いる",
+                "meaning": "있다"
+            },
+            {
+                "word": "芝居",
+                "sound": "しばい",
+                "meaning": "연극"
+            }
+        ]
+    },
+    {
+        "kanji": "件",
+        "hanja": "",
+        "eumhun": "물건 건",
+        "jpSound": "けん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "件数",
+                "sound": "けんすう",
+                "meaning": "건수"
+            },
+            {
+                "word": "事件",
+                "sound": "じけん",
+                "meaning": "사건"
+            },
+            {
+                "word": "条件",
+                "sound": "じょうけん",
+                "meaning": "조건"
+            }
+        ]
+    },
+    {
+        "kanji": "検",
+        "hanja": "檢",
+        "eumhun": "검사할 검",
+        "jpSound": "けん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "検査",
+                "sound": "けんさ",
+                "meaning": "검사"
+            },
+            {
+                "word": "検討",
+                "sound": "けんとう",
+                "meaning": "검토"
+            },
+            {
+                "word": "点検",
+                "sound": "てんけん",
+                "meaning": "점검"
+            }
+        ]
+    },
+    {
+        "kanji": "格",
+        "hanja": "",
+        "eumhun": "격식 격",
+        "jpSound": "かく、こう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "格式",
+                "sound": "かくしき",
+                "meaning": "격식"
+            },
+            {
+                "word": "規格",
+                "sound": "きかく",
+                "meaning": "규격"
+            },
+            {
+                "word": "性格",
+                "sound": "せいかく",
+                "meaning": "성격"
+            },
+            {
+                "word": "格子",
+                "sound": "こうし",
+                "meaning": "격자"
+            }
+        ]
+    },
+    {
+        "kanji": "潔",
+        "hanja": "潔",
+        "eumhun": "깨끗할 결",
+        "jpSound": "けつ",
+        "jpMeaning": "いさぎよい",
+        "examples": [
+            {
+                "word": "潔白",
+                "sound": "けっぱく",
+                "meaning": "결백"
+            },
+            {
+                "word": "清潔",
+                "sound": "せいけつ",
+                "meaning": "청결"
+            },
+            {
+                "word": "純潔",
+                "sound": "じゅんけつ",
+                "meaning": "순결"
+            },
+            {
+                "word": "潔い",
+                "sound": "いさぎよい",
+                "meaning": "깨끗하다"
+            }
+        ]
+    },
+    {
+        "kanji": "耕",
+        "hanja": "",
+        "eumhun": "밭갈[犁田] 경",
+        "jpSound": "こう",
+        "jpMeaning": "たがやす",
+        "examples": [
+            {
+                "word": "耕作",
+                "sound": "こうさく",
+                "meaning": "경작"
+            },
+            {
+                "word": "耕地",
+                "sound": "こうち",
+                "meaning": "경지"
+            },
+            {
+                "word": "農耕",
+                "sound": "のうこう",
+                "meaning": "농경"
+            },
+            {
+                "word": "耕す",
+                "sound": "たがやす",
+                "meaning": "갈다"
+            }
+        ]
+    },
+    {
+        "kanji": "経",
+        "hanja": "經",
+        "eumhun": "지날/글 경",
+        "jpSound": "けい、きょう",
+        "jpMeaning": "へる",
+        "examples": [
+            {
+                "word": "経費",
+                "sound": "けいひ",
+                "meaning": "경비"
+            },
+            {
+                "word": "経済",
+                "sound": "けいざい",
+                "meaning": "경제"
+            },
+            {
+                "word": "経験",
+                "sound": "けいけん",
+                "meaning": "경험"
+            },
+            {
+                "word": "経文",
+                "sound": "きょうもん",
+                "meaning": "경문"
+            },
+            {
+                "word": "お経",
+                "sound": "おきょう",
+                "meaning": "경"
+            },
+            {
+                "word": "写経",
+                "sound": "しゃきょう",
+                "meaning": "사경"
+            },
+            {
+                "word": "経る",
+                "sound": "へる",
+                "meaning": "지나다"
+            }
+        ]
+    },
+    {
+        "kanji": "境",
+        "hanja": "",
+        "eumhun": "지경 경",
+        "jpSound": "きょう、けい",
+        "jpMeaning": "さかい",
+        "examples": [
+            {
+                "word": "境界",
+                "sound": "きょうかい",
+                "meaning": "경계"
+            },
+            {
+                "word": "境地",
+                "sound": "きょうち",
+                "meaning": "경지"
+            },
+            {
+                "word": "逆境",
+                "sound": "ぎゃっきょう",
+                "meaning": "역경"
+            },
+            {
+                "word": "境内",
+                "sound": "けいだい",
+                "meaning": "경내"
+            },
+            {
+                "word": "境",
+                "sound": "さかい",
+                "meaning": "경계, 갈림길, 땅"
+            },
+            {
+                "word": "境目",
+                "sound": "さかいめ",
+                "meaning": "경계선, 갈림길"
+            }
+        ]
+    },
+    {
+        "kanji": "告",
+        "hanja": "",
+        "eumhun": "고할 고",
+        "jpSound": "こく",
+        "jpMeaning": "つげる",
+        "examples": [
+            {
+                "word": "告示",
+                "sound": "こくじ",
+                "meaning": "고시"
+            },
+            {
+                "word": "告白",
+                "sound": "こくはく",
+                "meaning": "고백"
+            },
+            {
+                "word": "報告",
+                "sound": "ほうこく",
+                "meaning": "보고"
+            },
+            {
+                "word": "告げる",
+                "sound": "つげる",
+                "meaning": "고하다"
+            }
+        ]
+    },
+    {
+        "kanji": "故",
+        "hanja": "",
+        "eumhun": "연고 고",
+        "jpSound": "こ",
+        "jpMeaning": "ゆえ",
+        "examples": [
+            {
+                "word": "故郷",
+                "sound": "こきょう",
+                "meaning": "고향"
+            },
+            {
+                "word": "故意",
+                "sound": "こい",
+                "meaning": "고의"
+            },
+            {
+                "word": "事故",
+                "sound": "じこ",
+                "meaning": "사고"
+            },
+            {
+                "word": "故",
+                "sound": "ゆえ",
+                "meaning": "까닭"
+            },
+            {
+                "word": "故に",
+                "sound": "ゆえに",
+                "meaning": "그러므로"
+            }
+        ]
+    },
+    {
+        "kanji": "過",
+        "hanja": "",
+        "eumhun": "지날 과",
+        "jpSound": "か",
+        "jpMeaning": "すぎる、すごす、あやまつ",
+        "examples": [
+            {
+                "word": "過度",
+                "sound": "かど",
+                "meaning": "과도"
+            },
+            {
+                "word": "過失",
+                "sound": "かしつ",
+                "meaning": "과실"
+            },
+            {
+                "word": "通過",
+                "sound": "つうか",
+                "meaning": "통과"
+            },
+            {
+                "word": "過ぎる",
+                "sound": "すぎる",
+                "meaning": "지나다"
+            },
+            {
+                "word": "昼過ぎ",
+                "sound": "ひるすぎ",
+                "meaning": "정오를 조금 넘긴 무렵"
+            },
+            {
+                "word": "過ごす",
+                "sound": "すごす",
+                "meaning": "지내다"
+            },
+            {
+                "word": "過つ",
+                "sound": "あやまつ",
+                "meaning": "실수하다"
+            },
+            {
+                "word": "過ち",
+                "sound": "あやまち",
+                "meaning": "잘못"
+            }
+        ]
+    },
+    {
+        "kanji": "慣",
+        "hanja": "",
+        "eumhun": "익숙할 관",
+        "jpSound": "かん",
+        "jpMeaning": "なれる、ならす",
+        "examples": [
+            {
+                "word": "慣例",
+                "sound": "かんれい",
+                "meaning": "관례"
+            },
+            {
+                "word": "慣性",
+                "sound": "かんせい",
+                "meaning": "관성"
+            },
+            {
+                "word": "習慣",
+                "sound": "しゅうかん",
+                "meaning": "습관"
+            },
+            {
+                "word": "慣れる",
+                "sound": "なれる",
+                "meaning": "익숙해지다"
+            },
+            {
+                "word": "慣れ",
+                "sound": "なれ",
+                "meaning": "습관, 익숙해짐, 숙달"
+            },
+            {
+                "word": "慣らす",
+                "sound": "ならす",
+                "meaning": "익숙하게 하다"
+            }
+        ]
+    },
+    {
+        "kanji": "鉱",
+        "hanja": "鑛",
+        "eumhun": "쇳돌 광",
+        "jpSound": "こう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "鉱物",
+                "sound": "こうぶつ",
+                "meaning": "광물"
+            },
+            {
+                "word": "鉱山",
+                "sound": "こうざん",
+                "meaning": "광산"
+            },
+            {
+                "word": "鉄鉱",
+                "sound": "てっこう",
+                "meaning": "철광"
+            }
+        ]
+    },
+    {
+        "kanji": "救",
+        "hanja": "",
+        "eumhun": "구원할 구",
+        "jpSound": "きゅう",
+        "jpMeaning": "すくう",
+        "examples": [
+            {
+                "word": "救助",
+                "sound": "きゅうじょ",
+                "meaning": "구조"
+            },
+            {
+                "word": "救援",
+                "sound": "きゅうえん",
+                "meaning": "구원"
+            },
+            {
+                "word": "救急",
+                "sound": "きゅうきゅう",
+                "meaning": "구급"
+            },
+            {
+                "word": "救う",
+                "sound": "すくう",
+                "meaning": "구하다"
+            },
+            {
+                "word": "救い",
+                "sound": "すくい",
+                "meaning": "구함"
+            }
+        ]
+    },
+    {
+        "kanji": "久",
+        "hanja": "",
+        "eumhun": "오랠 구",
+        "jpSound": "きゅう、く",
+        "jpMeaning": "ひさしい",
+        "examples": [
+            {
+                "word": "永久",
+                "sound": "えいきゅう",
+                "meaning": "영구"
+            },
+            {
+                "word": "持久",
+                "sound": "じきゅう",
+                "meaning": "지구"
+            },
+            {
+                "word": "耐久",
+                "sound": "たいきゅう",
+                "meaning": "내구"
+            },
+            {
+                "word": "久遠",
+                "sound": "くおん",
+                "meaning": "구원, 영원"
+            },
+            {
+                "word": "久しい",
+                "sound": "ひさしい",
+                "meaning": "오래되다"
+            },
+            {
+                "word": "久々",
+                "sound": "ひさびさ",
+                "meaning": "오래간만"
+            }
+        ]
+    },
+    {
+        "kanji": "旧",
+        "hanja": "舊",
+        "eumhun": "예 구",
+        "jpSound": "きゅう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "旧道",
+                "sound": "きゅうどう",
+                "meaning": "옛길"
+            },
+            {
+                "word": "新旧",
+                "sound": "しんきゅう",
+                "meaning": "신구"
+            },
+            {
+                "word": "復旧",
+                "sound": "ふっきゅう",
+                "meaning": "복구"
+            }
+        ]
+    },
+    {
+        "kanji": "句",
+        "hanja": "",
+        "eumhun": "글귀 구",
+        "jpSound": "く",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "句集",
+                "sound": "くしゅう",
+                "meaning": "하이쿠, 렌쿠를 모은 책"
+            },
+            {
+                "word": "字句",
+                "sound": "じく",
+                "meaning": "자구"
+            },
+            {
+                "word": "節句",
+                "sound": "せっく",
+                "meaning": "셋쿠, 명절"
+            }
+        ]
+    },
+    {
+        "kanji": "構",
+        "hanja": "",
+        "eumhun": "얽을 구",
+        "jpSound": "こう",
+        "jpMeaning": "かまえる、かまう",
+        "examples": [
+            {
+                "word": "構造",
+                "sound": "こうぞう",
+                "meaning": "구조"
+            },
+            {
+                "word": "構内",
+                "sound": "こうない",
+                "meaning": "구내"
+            },
+            {
+                "word": "結構",
+                "sound": "けっこう",
+                "meaning": "결구, 그럭저럭, 훌륭함"
+            },
+            {
+                "word": "構える",
+                "sound": "かまえる",
+                "meaning": "갖추다"
+            },
+            {
+                "word": "構え",
+                "sound": "かまえ",
+                "meaning": "구조, 자세, 준비"
+            },
+            {
+                "word": "構う",
+                "sound": "かまう",
+                "meaning": "상관하다, 상대하다"
+            },
+            {
+                "word": "構わない",
+                "sound": "かまわない",
+                "meaning": "상관없다"
+            }
+        ]
+    },
+    {
+        "kanji": "規",
+        "hanja": "",
+        "eumhun": "법 규",
+        "jpSound": "き",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "規則",
+                "sound": "きそく",
+                "meaning": "규칙"
+            },
+            {
+                "word": "規律",
+                "sound": "きりつ",
+                "meaning": "규율"
+            },
+            {
+                "word": "定規",
+                "sound": "じょうぎ",
+                "meaning": "정규"
+            }
+        ]
+    },
+    {
+        "kanji": "均",
+        "hanja": "",
+        "eumhun": "고를 균",
+        "jpSound": "きん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "均等",
+                "sound": "きんとう",
+                "meaning": "균등"
+            },
+            {
+                "word": "均一",
+                "sound": "きんいつ",
+                "meaning": "균일"
+            },
+            {
+                "word": "平均",
+                "sound": "へいきん",
+                "meaning": "평균"
+            }
+        ]
+    },
+    {
+        "kanji": "禁",
+        "hanja": "",
+        "eumhun": "금할 금",
+        "jpSound": "きん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "禁止",
+                "sound": "きんし",
+                "meaning": "금지"
+            },
+            {
+                "word": "禁煙",
+                "sound": "きんえん",
+                "meaning": "금연"
+            },
+            {
+                "word": "厳禁",
+                "sound": "げんきん",
+                "meaning": "엄금"
+            }
+        ]
+    },
+    {
+        "kanji": "紀",
+        "hanja": "",
+        "eumhun": "벼리 기",
+        "jpSound": "き",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "紀行",
+                "sound": "きこう",
+                "meaning": "기행"
+            },
+            {
+                "word": "紀元",
+                "sound": "きげん",
+                "meaning": "기원"
+            },
+            {
+                "word": "風紀",
+                "sound": "ふうき",
+                "meaning": "풍기"
+            }
+        ]
+    },
+    {
+        "kanji": "技",
+        "hanja": "",
+        "eumhun": "재주 기",
+        "jpSound": "ぎ",
+        "jpMeaning": "わざ",
+        "examples": [
+            {
+                "word": "技術",
+                "sound": "ぎじゅつ",
+                "meaning": "기술"
+            },
+            {
+                "word": "技師",
+                "sound": "ぎし",
+                "meaning": "기사"
+            },
+            {
+                "word": "特技",
+                "sound": "とくぎ",
+                "meaning": "특기"
+            },
+            {
+                "word": "技",
+                "sound": "わざ",
+                "meaning": "기술"
+            }
+        ]
+    },
+    {
+        "kanji": "基",
+        "hanja": "",
+        "eumhun": "터 기",
+        "jpSound": "き",
+        "jpMeaning": "もと、もとい",
+        "examples": [
+            {
+                "word": "基礎",
+                "sound": "きそ",
+                "meaning": "기초"
+            },
+            {
+                "word": "基準",
+                "sound": "きじゅん",
+                "meaning": "기준"
+            },
+            {
+                "word": "基地",
+                "sound": "きち",
+                "meaning": "기지"
+            },
+            {
+                "word": "基",
+                "sound": "もと",
+                "meaning": "근본"
+            },
+            {
+                "word": "基づく",
+                "sound": "もとづく",
+                "meaning": "기초를 두다"
+            },
+            {
+                "word": "基",
+                "sound": "もとい",
+                "meaning": "토대"
+            }
+        ]
+    },
+    {
+        "kanji": "寄",
+        "hanja": "",
+        "eumhun": "부칠 기",
+        "jpSound": "き",
+        "jpMeaning": "よる、よせる",
+        "examples": [
+            {
+                "word": "寄宿",
+                "sound": "きしゅく",
+                "meaning": "기숙"
+            },
+            {
+                "word": "寄贈",
+                "sound": "きぞう",
+                "meaning": "기증"
+            },
+            {
+                "word": "寄港",
+                "sound": "きこう",
+                "meaning": "기항"
+            },
+            {
+                "word": "寄る",
+                "sound": "よる",
+                "meaning": "접근하다"
+            },
+            {
+                "word": "近寄る",
+                "sound": "ちかよる",
+                "meaning": "접근하다"
+            },
+            {
+                "word": "身寄り",
+                "sound": "みより",
+                "meaning": "친척"
+            },
+            {
+                "word": "寄せる",
+                "sound": "よせる",
+                "meaning": "밀려오다, 바싹 붙여 대다"
+            },
+            {
+                "word": "人寄せ",
+                "sound": "ひとよせ",
+                "meaning": "손님을 모아들임"
+            }
+        ]
+    },
+    {
+        "kanji": "能",
+        "hanja": "",
+        "eumhun": "능할 능",
+        "jpSound": "のう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "能力",
+                "sound": "のうりょく",
+                "meaning": "능력"
+            },
+            {
+                "word": "芸能",
+                "sound": "げいのう",
+                "meaning": "예능"
+            },
+            {
+                "word": "効能",
+                "sound": "こうのう",
+                "meaning": "효능"
+            }
+        ]
+    },
+    {
+        "kanji": "団",
+        "hanja": "團",
+        "eumhun": "둥글 단",
+        "jpSound": "だん、とん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "団結",
+                "sound": "だんけつ",
+                "meaning": "단결"
+            },
+            {
+                "word": "団地",
+                "sound": "だんち",
+                "meaning": "단지"
+            },
+            {
+                "word": "集団",
+                "sound": "しゅうだん",
+                "meaning": "집단"
+            },
+            {
+                "word": "布団",
+                "sound": "ふとん",
+                "meaning": "포단"
+            }
+        ]
+    },
+    {
+        "kanji": "断",
+        "hanja": "斷",
+        "eumhun": "끊을 단",
+        "jpSound": "だん",
+        "jpMeaning": "たつ、ことわる",
+        "examples": [
+            {
+                "word": "断絶",
+                "sound": "だんぜつ",
+                "meaning": "단절"
+            },
+            {
+                "word": "断定",
+                "sound": "だんてい",
+                "meaning": "단정"
+            },
+            {
+                "word": "判断",
+                "sound": "はんだん",
+                "meaning": "판단"
+            },
+            {
+                "word": "断つ",
+                "sound": "たつ",
+                "meaning": "끊다"
+            },
+            {
+                "word": "塩断ち",
+                "sound": "しおだち",
+                "meaning": "간한 음식을 먹지 않음"
+            },
+            {
+                "word": "断る",
+                "sound": "ことわる",
+                "meaning": "거절하다, 양해를 얻다"
+            },
+            {
+                "word": "断り",
+                "sound": "ことわり",
+                "meaning": "사전 양해, 거절"
+            }
+        ]
+    },
+    {
+        "kanji": "堂",
+        "hanja": "",
+        "eumhun": "집 당",
+        "jpSound": "どう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "堂々と",
+                "sound": "どうどうと",
+                "meaning": "당당하게"
+            },
+            {
+                "word": "殿堂",
+                "sound": "でんどう",
+                "meaning": "전당"
+            },
+            {
+                "word": "母堂",
+                "sound": "ぼどう",
+                "meaning": "모당, 자당"
+            }
+        ]
+    },
+    {
+        "kanji": "貸",
+        "hanja": "",
+        "eumhun": "빌릴/뀔 대",
+        "jpSound": "たい",
+        "jpMeaning": "かす",
+        "examples": [
+            {
+                "word": "貸借",
+                "sound": "たいしゃく",
+                "meaning": "대차"
+            },
+            {
+                "word": "貸与",
+                "sound": "たいよ",
+                "meaning": "대여"
+            },
+            {
+                "word": "賃貸",
+                "sound": "ちんたい",
+                "meaning": "임대"
+            },
+            {
+                "word": "貸す",
+                "sound": "かす",
+                "meaning": "빌려주다"
+            },
+            {
+                "word": "貸し",
+                "sound": "かし",
+                "meaning": "빌려줌, 빚"
+            }
+        ]
+    },
+    {
+        "kanji": "導",
+        "hanja": "",
+        "eumhun": "인도할 도",
+        "jpSound": "どう",
+        "jpMeaning": "みちびく",
+        "examples": [
+            {
+                "word": "導入",
+                "sound": "どうにゅう",
+                "meaning": "도입"
+            },
+            {
+                "word": "指導",
+                "sound": "しどう",
+                "meaning": "지도"
+            },
+            {
+                "word": "半導体",
+                "sound": "はんどうたい",
+                "meaning": "반도체"
+            },
+            {
+                "word": "導く",
+                "sound": "みちびく",
+                "meaning": "인도하다"
+            },
+            {
+                "word": "導き",
+                "sound": "みちびき",
+                "meaning": "인도"
+            }
+        ]
+    },
+    {
+        "kanji": "毒",
+        "hanja": "毒",
+        "eumhun": "독 독",
+        "jpSound": "どく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "毒薬",
+                "sound": "どくやく",
+                "meaning": "독약"
+            },
+            {
+                "word": "毒舌",
+                "sound": "どくぜつ",
+                "meaning": "독설"
+            },
+            {
+                "word": "中毒",
+                "sound": "ちゅうどく",
+                "meaning": "중독"
+            }
+        ]
+    },
+    {
+        "kanji": "独",
+        "hanja": "獨",
+        "eumhun": "홀로 독",
+        "jpSound": "どく",
+        "jpMeaning": "ひとり",
+        "examples": [
+            {
+                "word": "独立",
+                "sound": "どくりつ",
+                "meaning": "독립"
+            },
+            {
+                "word": "独断",
+                "sound": "どくだん",
+                "meaning": "독단"
+            },
+            {
+                "word": "単独",
+                "sound": "たんどく",
+                "meaning": "단독"
+            },
+            {
+                "word": "独り",
+                "sound": "ひとり",
+                "meaning": "혼자"
+            },
+            {
+                "word": "独り者",
+                "sound": "ひとりもの",
+                "meaning": "독신자"
+            }
+        ]
+    },
+    {
+        "kanji": "銅",
+        "hanja": "",
+        "eumhun": "구리 동",
+        "jpSound": "どう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "銅器",
+                "sound": "どうき",
+                "meaning": "동기"
+            },
+            {
+                "word": "銅像",
+                "sound": "どうぞう",
+                "meaning": "동상"
+            },
+            {
+                "word": "青銅",
+                "sound": "せいどう",
+                "meaning": "청동"
+            }
+        ]
+    },
+    {
+        "kanji": "得",
+        "hanja": "",
+        "eumhun": "얻을 득",
+        "jpSound": "とく",
+        "jpMeaning": "える、うる",
+        "examples": [
+            {
+                "word": "得意",
+                "sound": "とくい",
+                "meaning": "득의"
+            },
+            {
+                "word": "会得",
+                "sound": "えとく",
+                "meaning": "터득"
+            },
+            {
+                "word": "損得",
+                "sound": "そんとく",
+                "meaning": "손득"
+            },
+            {
+                "word": "得る",
+                "sound": "える",
+                "meaning": "얻다"
+            },
+            {
+                "word": "得るところ",
+                "sound": "えるところ",
+                "meaning": "얻는 바"
+            },
+            {
+                "word": "書き得る",
+                "sound": "かきうる",
+                "meaning": "쓸 수 있다"
+            }
+        ]
+    },
+    {
+        "kanji": "略",
+        "hanja": "",
+        "eumhun": "간략할/약할 략",
+        "jpSound": "りゃく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "略称",
+                "sound": "りゃくしょう",
+                "meaning": "약칭"
+            },
+            {
+                "word": "計略",
+                "sound": "けいりゃく",
+                "meaning": "계략"
+            },
+            {
+                "word": "侵略",
+                "sound": "しんりゃく",
+                "meaning": "침략"
+            }
+        ]
+    },
+    {
+        "kanji": "歴",
+        "hanja": "歷",
+        "eumhun": "지날 력",
+        "jpSound": "れき",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "歴史",
+                "sound": "れきし",
+                "meaning": "역사"
+            },
+            {
+                "word": "歴訪",
+                "sound": "れきほう",
+                "meaning": "역방"
+            },
+            {
+                "word": "経歴",
+                "sound": "けいれき",
+                "meaning": "경력"
+            }
+        ]
+    },
+    {
+        "kanji": "領",
+        "hanja": "",
+        "eumhun": "거느릴 령",
+        "jpSound": "りょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "領土",
+                "sound": "りょうど",
+                "meaning": "영토"
+            },
+            {
+                "word": "要領",
+                "sound": "ようりょう",
+                "meaning": "요령"
+            },
+            {
+                "word": "大統領",
+                "sound": "だいとうりょう",
+                "meaning": "대통령"
+            }
+        ]
+    },
+    {
+        "kanji": "留",
+        "hanja": "",
+        "eumhun": "머무를 류",
+        "jpSound": "りゅう、る",
+        "jpMeaning": "とめる、とまる",
+        "examples": [
+            {
+                "word": "留意",
+                "sound": "りゅうい",
+                "meaning": "유의"
+            },
+            {
+                "word": "留学",
+                "sound": "りゅうがく",
+                "meaning": "유학"
+            },
+            {
+                "word": "保留",
+                "sound": "ほりゅう",
+                "meaning": "보류"
+            },
+            {
+                "word": "留守",
+                "sound": "るす",
+                "meaning": "집을 비움, 빈집을 지킴, 소홀히 함"
+            },
+            {
+                "word": "留める",
+                "sound": "とめる",
+                "meaning": "만류하다"
+            },
+            {
+                "word": "帯留め",
+                "sound": "おびどめ",
+                "meaning": "오비도메"
+            },
+            {
+                "word": "留まる",
+                "sound": "とまる",
+                "meaning": "머물다"
+            },
+            {
+                "word": "歩留まり",
+                "sound": "ぶどまり",
+                "meaning": "생산득률"
+            }
+        ]
+    },
+    {
+        "kanji": "率",
+        "hanja": "",
+        "eumhun": "비율 률 | 거느릴 솔",
+        "jpSound": "そつ、りつ",
+        "jpMeaning": "ひきいる",
+        "examples": [
+            {
+                "word": "率先",
+                "sound": "そっせん",
+                "meaning": "솔선"
+            },
+            {
+                "word": "引率",
+                "sound": "いんそつ",
+                "meaning": "인솔"
+            },
+            {
+                "word": "軽率",
+                "sound": "けいそつ",
+                "meaning": "경솔"
+            },
+            {
+                "word": "比率",
+                "sound": "ひりつ",
+                "meaning": "비율"
+            },
+            {
+                "word": "能率",
+                "sound": "のうりつ",
+                "meaning": "능률"
+            },
+            {
+                "word": "百分率",
+                "sound": "ひゃくぶんりつ",
+                "meaning": "백분율"
+            },
+            {
+                "word": "率いる",
+                "sound": "ひきいる",
+                "meaning": "거느리다"
+            }
+        ]
+    },
+    {
+        "kanji": "脈",
+        "hanja": "脈",
+        "eumhun": "줄기 맥",
+        "jpSound": "みゃく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "脈絡",
+                "sound": "みゃくらく",
+                "meaning": "맥락"
+            },
+            {
+                "word": "動脈",
+                "sound": "どうみゃく",
+                "meaning": "동맥"
+            },
+            {
+                "word": "山脈",
+                "sound": "さんみゃく",
+                "meaning": "산맥"
+            }
+        ]
+    },
+    {
+        "kanji": "綿",
+        "hanja": "",
+        "eumhun": "솜 면",
+        "jpSound": "めん",
+        "jpMeaning": "わた",
+        "examples": [
+            {
+                "word": "綿布",
+                "sound": "めんぷ",
+                "meaning": "면포"
+            },
+            {
+                "word": "綿密",
+                "sound": "めんみつ",
+                "meaning": "면밀"
+            },
+            {
+                "word": "純綿",
+                "sound": "じゅんめん",
+                "meaning": "순면"
+            },
+            {
+                "word": "綿",
+                "sound": "わた",
+                "meaning": "목화, 솜"
+            },
+            {
+                "word": "真綿",
+                "sound": "まわた",
+                "meaning": "풀솜, 설면자"
+            }
+        ]
+    },
+    {
+        "kanji": "夢",
+        "hanja": "夢",
+        "eumhun": "꿈 몽",
+        "jpSound": "む",
+        "jpMeaning": "ゆめ",
+        "examples": [
+            {
+                "word": "夢幻",
+                "sound": "むげん",
+                "meaning": "몽환"
+            },
+            {
+                "word": "夢中",
+                "sound": "むちゅう",
+                "meaning": "몽중"
+            },
+            {
+                "word": "悪夢",
+                "sound": "あくむ",
+                "meaning": "악몽"
+            },
+            {
+                "word": "夢",
+                "sound": "ゆめ",
+                "meaning": "꿈"
+            },
+            {
+                "word": "夢見る",
+                "sound": "ゆめみる",
+                "meaning": "꿈꾸다"
+            },
+            {
+                "word": "初夢",
+                "sound": "はつゆめ",
+                "meaning": "첫 꿈"
+            }
+        ]
+    },
+    {
+        "kanji": "墓",
+        "hanja": "墓",
+        "eumhun": "무덤 묘",
+        "jpSound": "ぼ",
+        "jpMeaning": "はか",
+        "examples": [
+            {
+                "word": "墓地",
+                "sound": "ぼち",
+                "meaning": "묘지"
+            },
+            {
+                "word": "墓参",
+                "sound": "ぼさん",
+                "meaning": "성묘"
+            },
+            {
+                "word": "墓穴",
+                "sound": "ぼけつ",
+                "meaning": "묘혈"
+            },
+            {
+                "word": "墓",
+                "sound": "はか",
+                "meaning": "무덤"
+            },
+            {
+                "word": "墓参り",
+                "sound": "はかまいり",
+                "meaning": "성묘"
+            }
+        ]
+    },
+    {
+        "kanji": "武",
+        "hanja": "",
+        "eumhun": "호반 무",
+        "jpSound": "ぶ、む",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "武力",
+                "sound": "ぶりょく",
+                "meaning": "무력"
+            },
+            {
+                "word": "武士",
+                "sound": "ぶし",
+                "meaning": "무사"
+            },
+            {
+                "word": "文武",
+                "sound": "ぶんぶ",
+                "meaning": "문무"
+            },
+            {
+                "word": "武者人形",
+                "sound": "むしゃにんぎょう",
+                "meaning": "무사 인형"
+            },
+            {
+                "word": "荒武者",
+                "sound": "あらむしゃ",
+                "meaning": "난폭자"
+            }
+        ]
+    },
+    {
+        "kanji": "務",
+        "hanja": "",
+        "eumhun": "힘쓸 무",
+        "jpSound": "む",
+        "jpMeaning": "つとめる、つとまる",
+        "examples": [
+            {
+                "word": "事務",
+                "sound": "じむ",
+                "meaning": "사무"
+            },
+            {
+                "word": "職務",
+                "sound": "しょくむ",
+                "meaning": "직무"
+            },
+            {
+                "word": "義務",
+                "sound": "ぎむ",
+                "meaning": "의무"
+            },
+            {
+                "word": "務める",
+                "sound": "つとめる",
+                "meaning": "역을 맡다"
+            },
+            {
+                "word": "務め",
+                "sound": "つとめ",
+                "meaning": "임무, 근무"
+            },
+            {
+                "word": "務まる",
+                "sound": "つとまる",
+                "meaning": "잘 수행해 내다"
+            }
+        ]
+    },
+    {
+        "kanji": "貿",
+        "hanja": "",
+        "eumhun": "무역할 무",
+        "jpSound": "ぼう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "貿易",
+                "sound": "ぼうえき",
+                "meaning": "무역"
+            }
+        ]
+    },
+    {
+        "kanji": "迷",
+        "hanja": "",
+        "eumhun": "미혹할 미",
+        "jpSound": "めい",
+        "jpMeaning": "まよう",
+        "examples": [
+            {
+                "word": "迷路",
+                "sound": "めいろ",
+                "meaning": "미로"
+            },
+            {
+                "word": "迷惑",
+                "sound": "めいわく",
+                "meaning": "귀찮음, 폐"
+            },
+            {
+                "word": "低迷",
+                "sound": "ていめい",
+                "meaning": "저미"
+            },
+            {
+                "word": "迷う",
+                "sound": "まよう",
+                "meaning": "헤매다, 망설이다"
+            },
+            {
+                "word": "迷い",
+                "sound": "まよい",
+                "meaning": "망설임"
+            }
+        ]
+    },
+    {
+        "kanji": "防",
+        "hanja": "",
+        "eumhun": "막을 방",
+        "jpSound": "ぼう",
+        "jpMeaning": "ふせぐ",
+        "examples": [
+            {
+                "word": "防備",
+                "sound": "ぼうび",
+                "meaning": "방비"
+            },
+            {
+                "word": "堤防",
+                "sound": "ていぼう",
+                "meaning": "제방"
+            },
+            {
+                "word": "予防",
+                "sound": "よぼう",
+                "meaning": "예방"
+            },
+            {
+                "word": "防ぐ",
+                "sound": "ふせぐ",
+                "meaning": "막다"
+            },
+            {
+                "word": "防ぎ",
+                "sound": "ふせぎ",
+                "meaning": "방비"
+            }
+        ]
+    },
+    {
+        "kanji": "犯",
+        "hanja": "",
+        "eumhun": "범할 범",
+        "jpSound": "はん",
+        "jpMeaning": "おかす",
+        "examples": [
+            {
+                "word": "犯罪",
+                "sound": "はんざい",
+                "meaning": "범죄"
+            },
+            {
+                "word": "共犯",
+                "sound": "きょうはん",
+                "meaning": "공범"
+            },
+            {
+                "word": "侵犯",
+                "sound": "しんぱん",
+                "meaning": "침범"
+            },
+            {
+                "word": "犯す",
+                "sound": "おかす",
+                "meaning": "범하다, 어기다"
+            }
+        ]
+    },
+    {
+        "kanji": "弁",
+        "hanja": "",
+        "eumhun": "고깔 변",
+        "jpSound": "べん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "弁償",
+                "sound": "べんしょう",
+                "meaning": "변상"
+            },
+            {
+                "word": "花弁",
+                "sound": "かべん",
+                "meaning": "꽃잎"
+            },
+            {
+                "word": "雄弁",
+                "sound": "ゆうべん",
+                "meaning": "웅변"
+            }
+        ]
+    },
+    {
+        "kanji": "保",
+        "hanja": "",
+        "eumhun": "지킬 보",
+        "jpSound": "ほ",
+        "jpMeaning": "たもつ",
+        "examples": [
+            {
+                "word": "保護",
+                "sound": "ほご",
+                "meaning": "보호"
+            },
+            {
+                "word": "保存",
+                "sound": "ほぞん",
+                "meaning": "보존"
+            },
+            {
+                "word": "担保",
+                "sound": "たんぽ",
+                "meaning": "담보"
+            },
+            {
+                "word": "保つ",
+                "sound": "たもつ",
+                "meaning": "유지하다, 지키다, 유지되다"
+            }
+        ]
+    },
+    {
+        "kanji": "報",
+        "hanja": "",
+        "eumhun": "갚을/알릴 보",
+        "jpSound": "ほう",
+        "jpMeaning": "むくいる",
+        "examples": [
+            {
+                "word": "報酬",
+                "sound": "ほうしゅう",
+                "meaning": "보수"
+            },
+            {
+                "word": "報告",
+                "sound": "ほうこく",
+                "meaning": "보고"
+            },
+            {
+                "word": "情報",
+                "sound": "じょうほう",
+                "meaning": "정보"
+            },
+            {
+                "word": "報いる",
+                "sound": "むくいる",
+                "meaning": "갚다"
+            },
+            {
+                "word": "報い",
+                "sound": "むくい",
+                "meaning": "갚음"
+            }
+        ]
+    },
+    {
+        "kanji": "復",
+        "hanja": "",
+        "eumhun": "회복할 복 | 다시 부",
+        "jpSound": "ふく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "復活",
+                "sound": "ふっかつ",
+                "meaning": "부활"
+            },
+            {
+                "word": "往復",
+                "sound": "おうふく",
+                "meaning": "왕복"
+            },
+            {
+                "word": "報復",
+                "sound": "ほうふく",
+                "meaning": "보복"
+            }
+        ]
+    },
+    {
+        "kanji": "複",
+        "hanja": "",
+        "eumhun": "겹칠 복",
+        "jpSound": "ふく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "複数",
+                "sound": "ふくすう",
+                "meaning": "복수"
+            },
+            {
+                "word": "複雑",
+                "sound": "ふくざつ",
+                "meaning": "복잡"
+            },
+            {
+                "word": "重複",
+                "sound": "じゅうふく",
+                "meaning": "중복"
+            }
+        ]
+    },
+    {
+        "kanji": "婦",
+        "hanja": "婦",
+        "eumhun": "며느리 부",
+        "jpSound": "ふ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "婦人",
+                "sound": "ふじん",
+                "meaning": "부인"
+            },
+            {
+                "word": "夫婦",
+                "sound": "ふうふ",
+                "meaning": "부부"
+            },
+            {
+                "word": "主婦",
+                "sound": "しゅふ",
+                "meaning": "주부"
+            }
+        ]
+    },
+    {
+        "kanji": "粉",
+        "hanja": "",
+        "eumhun": "가루 분",
+        "jpSound": "ふん",
+        "jpMeaning": "こ、こな",
+        "examples": [
+            {
+                "word": "粉末",
+                "sound": "ふんまつ",
+                "meaning": "분말"
+            },
+            {
+                "word": "粉砕",
+                "sound": "ふんさい",
+                "meaning": "분쇄"
+            },
+            {
+                "word": "粉飾",
+                "sound": "ふんしょく",
+                "meaning": "분식"
+            },
+            {
+                "word": "粉",
+                "sound": "こ",
+                "meaning": "가루"
+            },
+            {
+                "word": "小麦粉",
+                "sound": "こむぎこ",
+                "meaning": "밀가루"
+            },
+            {
+                "word": "粉",
+                "sound": "こな",
+                "meaning": "가루"
+            },
+            {
+                "word": "粉雪",
+                "sound": "こなゆき",
+                "meaning": "분설"
+            }
+        ]
+    },
+    {
+        "kanji": "仏",
+        "hanja": "佛",
+        "eumhun": "부처 불",
+        "jpSound": "ぶつ",
+        "jpMeaning": "ほとけ",
+        "examples": [
+            {
+                "word": "仏事",
+                "sound": "ぶつじ",
+                "meaning": "불사"
+            },
+            {
+                "word": "仏像",
+                "sound": "ぶつぞう",
+                "meaning": "불상"
+            },
+            {
+                "word": "念仏",
+                "sound": "ねんぶつ",
+                "meaning": "염불"
+            },
+            {
+                "word": "仏",
+                "sound": "ほとけ",
+                "meaning": "부처"
+            },
+            {
+                "word": "仏様",
+                "sound": "ほとけさま",
+                "meaning": "부처님"
+            },
+            {
+                "word": "生き仏",
+                "sound": "いきぼとけ",
+                "meaning": "생불"
+            }
+        ]
+    },
+    {
+        "kanji": "費",
+        "hanja": "",
+        "eumhun": "쓸 비",
+        "jpSound": "ひ",
+        "jpMeaning": "ついやす、ついえる",
+        "examples": [
+            {
+                "word": "費用",
+                "sound": "ひよう",
+                "meaning": "비용"
+            },
+            {
+                "word": "消費",
+                "sound": "しょうひ",
+                "meaning": "소비"
+            },
+            {
+                "word": "旅費",
+                "sound": "りょひ",
+                "meaning": "여비"
+            },
+            {
+                "word": "費やす",
+                "sound": "ついやす",
+                "meaning": "쓰다, 낭비하다"
+            },
+            {
+                "word": "費える",
+                "sound": "ついえる",
+                "meaning": "줄다, 허비되다"
+            },
+            {
+                "word": "費え",
+                "sound": "ついえ",
+                "meaning": "비용, 낭비"
+            }
+        ]
+    },
+    {
+        "kanji": "比",
+        "hanja": "",
+        "eumhun": "견줄 비",
+        "jpSound": "ひ",
+        "jpMeaning": "くらべる",
+        "examples": [
+            {
+                "word": "比較",
+                "sound": "ひかく",
+                "meaning": "비교"
+            },
+            {
+                "word": "比例",
+                "sound": "ひれい",
+                "meaning": "비례"
+            },
+            {
+                "word": "無比",
+                "sound": "むひ",
+                "meaning": "무비"
+            },
+            {
+                "word": "比べる",
+                "sound": "くらべる",
+                "meaning": "비교하다, 경쟁하다"
+            },
+            {
+                "word": "背比べ",
+                "sound": "せいくらべ",
+                "meaning": "키 재기"
+            }
+        ]
+    },
+    {
+        "kanji": "非",
+        "hanja": "",
+        "eumhun": "아닐 비",
+        "jpSound": "ひ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "非難",
+                "sound": "ひなん",
+                "meaning": "비난"
+            },
+            {
+                "word": "非常",
+                "sound": "ひじょう",
+                "meaning": "비상"
+            },
+            {
+                "word": "是非",
+                "sound": "ぜひ",
+                "meaning": "시비, 꼭"
+            }
+        ]
+    },
+    {
+        "kanji": "肥",
+        "hanja": "",
+        "eumhun": "살찔 비",
+        "jpSound": "ひ",
+        "jpMeaning": "こえ、こえる、こやす、こやし",
+        "examples": [
+            {
+                "word": "肥大",
+                "sound": "ひだい",
+                "meaning": "비대"
+            },
+            {
+                "word": "肥料",
+                "sound": "ひりょう",
+                "meaning": "비료"
+            },
+            {
+                "word": "施肥",
+                "sound": "せひ",
+                "meaning": "시비, 비료를 줌"
+            },
+            {
+                "word": "肥える",
+                "sound": "こえる",
+                "meaning": "살찌다, 비옥해지다, 풍부해지다"
+            },
+            {
+                "word": "肥",
+                "sound": "こえ",
+                "meaning": "거름, 분뇨"
+            },
+            {
+                "word": "下肥",
+                "sound": "しもごえ",
+                "meaning": "인분뇨 거름"
+            },
+            {
+                "word": "肥やす",
+                "sound": "こやす",
+                "meaning": "살찌게 하다, 비옥하게 하다"
+            },
+            {
+                "word": "肥やし",
+                "sound": "こやし",
+                "meaning": "거름"
+            }
+        ]
+    },
+    {
+        "kanji": "備",
+        "hanja": "",
+        "eumhun": "갖출 비",
+        "jpSound": "び",
+        "jpMeaning": "そなえる、そなわる",
+        "examples": [
+            {
+                "word": "備考",
+                "sound": "びこう",
+                "meaning": "비고"
+            },
+            {
+                "word": "守備",
+                "sound": "しゅび",
+                "meaning": "수비"
+            },
+            {
+                "word": "準備",
+                "sound": "じゅんび",
+                "meaning": "준비"
+            },
+            {
+                "word": "備える",
+                "sound": "そなえる",
+                "meaning": "준비하다, 갖추다"
+            },
+            {
+                "word": "備え",
+                "sound": "そなえ",
+                "meaning": "준비, 방비"
+            },
+            {
+                "word": "備わる",
+                "sound": "そなわる",
+                "meaning": "갖추어지다"
+            }
+        ]
+    },
+    {
+        "kanji": "貧",
+        "hanja": "",
+        "eumhun": "가난할 빈",
+        "jpSound": "ひん、びん",
+        "jpMeaning": "まずしい",
+        "examples": [
+            {
+                "word": "貧富",
+                "sound": "ひんぷ",
+                "meaning": "빈부"
+            },
+            {
+                "word": "貧弱",
+                "sound": "ひんじゃく",
+                "meaning": "빈약"
+            },
+            {
+                "word": "清貧",
+                "sound": "せいひん",
+                "meaning": "청빈"
+            },
+            {
+                "word": "貧乏",
+                "sound": "びんぼう",
+                "meaning": "빈핍"
+            },
+            {
+                "word": "貧しい",
+                "sound": "まずしい",
+                "meaning": "가난하다, 빈약하다"
+            },
+            {
+                "word": "貧しさ",
+                "sound": "まずしさ",
+                "meaning": "가난"
+            }
+        ]
+    },
+    {
+        "kanji": "士",
+        "hanja": "",
+        "eumhun": "선비 사",
+        "jpSound": "し",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "士官",
+                "sound": "しかん",
+                "meaning": "사관"
+            },
+            {
+                "word": "武士",
+                "sound": "ぶし",
+                "meaning": "무사"
+            },
+            {
+                "word": "紳士",
+                "sound": "しんし",
+                "meaning": "신사"
+            }
+        ]
+    },
+    {
+        "kanji": "史",
+        "hanja": "",
+        "eumhun": "사기(史記) 사",
+        "jpSound": "し",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "史学",
+                "sound": "しがく",
+                "meaning": "사학"
+            },
+            {
+                "word": "歴史",
+                "sound": "れきし",
+                "meaning": "역사"
+            },
+            {
+                "word": "国史",
+                "sound": "こくし",
+                "meaning": "국사"
+            }
+        ]
+    },
+    {
+        "kanji": "似",
+        "hanja": "",
+        "eumhun": "닮을 사",
+        "jpSound": "じ",
+        "jpMeaning": "にる",
+        "examples": [
+            {
+                "word": "類似",
+                "sound": "るいじ",
+                "meaning": "유사"
+            },
+            {
+                "word": "酷似",
+                "sound": "こくじ",
+                "meaning": "혹사, 매우 닮음"
+            },
+            {
+                "word": "疑似",
+                "sound": "ぎじ",
+                "meaning": "의사, 유사"
+            },
+            {
+                "word": "似る",
+                "sound": "にる",
+                "meaning": "닮다"
+            },
+            {
+                "word": "似顔",
+                "sound": "にがお",
+                "meaning": "닮은 얼굴, 초상화"
+            }
+        ]
+    },
+    {
+        "kanji": "舎",
+        "hanja": "舍",
+        "eumhun": "집 사",
+        "jpSound": "しゃ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "舎監",
+                "sound": "しゃかん",
+                "meaning": "사감"
+            },
+            {
+                "word": "校舎",
+                "sound": "こうしゃ",
+                "meaning": "교사"
+            },
+            {
+                "word": "寄宿舎",
+                "sound": "きしゅくしゃ",
+                "meaning": "기숙사"
+            }
+        ]
+    },
+    {
+        "kanji": "査",
+        "hanja": "",
+        "eumhun": "조사할 사",
+        "jpSound": "さ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "査察",
+                "sound": "ささつ",
+                "meaning": "사찰"
+            },
+            {
+                "word": "調査",
+                "sound": "ちょうさ",
+                "meaning": "조사"
+            },
+            {
+                "word": "巡査",
+                "sound": "じゅんさ",
+                "meaning": "순사"
+            }
+        ]
+    },
+    {
+        "kanji": "師",
+        "hanja": "",
+        "eumhun": "스승 사",
+        "jpSound": "し",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "師匠",
+                "sound": "ししょう",
+                "meaning": "사장, 스승"
+            },
+            {
+                "word": "教師",
+                "sound": "きょうし",
+                "meaning": "교사"
+            },
+            {
+                "word": "医師",
+                "sound": "いし",
+                "meaning": "의사"
+            }
+        ]
+    },
+    {
+        "kanji": "飼",
+        "hanja": "飼",
+        "eumhun": "기를 사",
+        "jpSound": "し",
+        "jpMeaning": "かう",
+        "examples": [
+            {
+                "word": "飼育",
+                "sound": "しいく",
+                "meaning": "사육"
+            },
+            {
+                "word": "飼料",
+                "sound": "しりょう",
+                "meaning": "사료"
+            },
+            {
+                "word": "飼う",
+                "sound": "かう",
+                "meaning": "기르다"
+            }
+        ]
+    },
+    {
+        "kanji": "謝",
+        "hanja": "",
+        "eumhun": "사례할 사",
+        "jpSound": "しゃ",
+        "jpMeaning": "あやまる",
+        "examples": [
+            {
+                "word": "謝絶",
+                "sound": "しゃぜつ",
+                "meaning": "사절"
+            },
+            {
+                "word": "感謝",
+                "sound": "かんしゃ",
+                "meaning": "감사"
+            },
+            {
+                "word": "陳謝",
+                "sound": "ちんしゃ",
+                "meaning": "진사"
+            },
+            {
+                "word": "謝る",
+                "sound": "あやまる",
+                "meaning": "사죄하다, 손들다, 사양하다"
+            },
+            {
+                "word": "平謝り",
+                "sound": "ひらあやまり",
+                "meaning": "진심으로 사과함"
+            }
+        ]
+    },
+    {
+        "kanji": "酸",
+        "hanja": "",
+        "eumhun": "실[味覺] 산",
+        "jpSound": "さん",
+        "jpMeaning": "すい",
+        "examples": [
+            {
+                "word": "酸味",
+                "sound": "さんみ",
+                "meaning": "산미"
+            },
+            {
+                "word": "酸素",
+                "sound": "さんそ",
+                "meaning": "산소"
+            },
+            {
+                "word": "辛酸",
+                "sound": "しんさん",
+                "meaning": "신산"
+            },
+            {
+                "word": "酸い",
+                "sound": "すい",
+                "meaning": "시다"
+            },
+            {
+                "word": "酸っぱい",
+                "sound": "すっぱい",
+                "meaning": "시다"
+            }
+        ]
+    },
+    {
+        "kanji": "殺",
+        "hanja": "殺",
+        "eumhun": "죽일 살 | 감할/빠를 쇄",
+        "jpSound": "さつ、さい、せつ",
+        "jpMeaning": "ころす",
+        "examples": [
+            {
+                "word": "殺人",
+                "sound": "さつじん",
+                "meaning": "살인"
+            },
+            {
+                "word": "殺到",
+                "sound": "さっとう",
+                "meaning": "쇄도"
+            },
+            {
+                "word": "黙殺",
+                "sound": "もくさつ",
+                "meaning": "묵살"
+            },
+            {
+                "word": "相殺",
+                "sound": "そうさい",
+                "meaning": "상쇄"
+            },
+            {
+                "word": "殺生",
+                "sound": "せっしょう",
+                "meaning": "살생"
+            },
+            {
+                "word": "殺す",
+                "sound": "ころす",
+                "meaning": "죽이다"
+            },
+            {
+                "word": "殺し",
+                "sound": "ころし",
+                "meaning": "살인"
+            },
+            {
+                "word": "見殺し",
+                "sound": "みごろし",
+                "meaning": "못 본 체함"
+            }
+        ]
+    },
+    {
+        "kanji": "象",
+        "hanja": "",
+        "eumhun": "코끼리 상",
+        "jpSound": "しょう、ぞう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "象徴",
+                "sound": "しょうちょう",
+                "meaning": "상징"
+            },
+            {
+                "word": "対象",
+                "sound": "たいしょう",
+                "meaning": "대상"
+            },
+            {
+                "word": "現象",
+                "sound": "げんしょう",
+                "meaning": "현상"
+            },
+            {
+                "word": "象眼",
+                "sound": "ぞうがん",
+                "meaning": "상감"
+            },
+            {
+                "word": "巨象",
+                "sound": "きょぞう",
+                "meaning": "거상"
+            }
+        ]
+    },
+    {
+        "kanji": "賞",
+        "hanja": "",
+        "eumhun": "상줄 상",
+        "jpSound": "しょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "賞罰",
+                "sound": "しょうばつ",
+                "meaning": "상벌"
+            },
+            {
+                "word": "賞与",
+                "sound": "しょうよ",
+                "meaning": "상여"
+            },
+            {
+                "word": "懸賞",
+                "sound": "けんしょう",
+                "meaning": "현상"
+            }
+        ]
+    },
+    {
+        "kanji": "状",
+        "hanja": "狀",
+        "eumhun": "형상 상 | 문서 장",
+        "jpSound": "じょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "状態",
+                "sound": "じょうたい",
+                "meaning": "상태"
+            },
+            {
+                "word": "白状",
+                "sound": "はくじょう",
+                "meaning": "자백"
+            },
+            {
+                "word": "免状",
+                "sound": "めんじょう",
+                "meaning": "면장"
+            }
+        ]
+    },
+    {
+        "kanji": "常",
+        "hanja": "",
+        "eumhun": "떳떳할 상",
+        "jpSound": "じょう",
+        "jpMeaning": "つね、とこ",
+        "examples": [
+            {
+                "word": "常備",
+                "sound": "じょうび",
+                "meaning": "상비"
+            },
+            {
+                "word": "日常",
+                "sound": "にちじょう",
+                "meaning": "일상"
+            },
+            {
+                "word": "非常",
+                "sound": "ひじょう",
+                "meaning": "비상"
+            },
+            {
+                "word": "常",
+                "sound": "つね",
+                "meaning": "평상"
+            },
+            {
+                "word": "常に",
+                "sound": "つねに",
+                "meaning": "항상"
+            },
+            {
+                "word": "常々",
+                "sound": "つねづね",
+                "meaning": "평소, 늘"
+            },
+            {
+                "word": "常夏",
+                "sound": "とこなつ",
+                "meaning": "상하"
+            }
+        ]
+    },
+    {
+        "kanji": "像",
+        "hanja": "",
+        "eumhun": "모양 상",
+        "jpSound": "ぞう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "肖像",
+                "sound": "しょうぞう",
+                "meaning": "초상"
+            },
+            {
+                "word": "現像",
+                "sound": "げんぞう",
+                "meaning": "현상"
+            },
+            {
+                "word": "想像",
+                "sound": "そうぞう",
+                "meaning": "상상"
+            }
+        ]
+    },
+    {
+        "kanji": "序",
+        "hanja": "",
+        "eumhun": "차례 서",
+        "jpSound": "じょ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "序幕",
+                "sound": "じょまく",
+                "meaning": "서막"
+            },
+            {
+                "word": "順序",
+                "sound": "じゅんじょ",
+                "meaning": "순서"
+            },
+            {
+                "word": "秩序",
+                "sound": "ちつじょ",
+                "meaning": "질서"
+            }
+        ]
+    },
+    {
+        "kanji": "設",
+        "hanja": "",
+        "eumhun": "베풀 설",
+        "jpSound": "せつ",
+        "jpMeaning": "もうける",
+        "examples": [
+            {
+                "word": "設立",
+                "sound": "せつりつ",
+                "meaning": "설립"
+            },
+            {
+                "word": "設備",
+                "sound": "せつび",
+                "meaning": "설비"
+            },
+            {
+                "word": "建設",
+                "sound": "けんせつ",
+                "meaning": "건설"
+            },
+            {
+                "word": "設ける",
+                "sound": "もうける",
+                "meaning": "마련하다, 만들다"
+            }
+        ]
+    },
+    {
+        "kanji": "性",
+        "hanja": "",
+        "eumhun": "성품 성",
+        "jpSound": "せい、しょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "性質",
+                "sound": "せいしつ",
+                "meaning": "성질"
+            },
+            {
+                "word": "理性",
+                "sound": "りせい",
+                "meaning": "이성"
+            },
+            {
+                "word": "男性",
+                "sound": "だんせい",
+                "meaning": "남성"
+            },
+            {
+                "word": "性分",
+                "sound": "しょうぶん",
+                "meaning": "성분"
+            },
+            {
+                "word": "相性",
+                "sound": "あいしょう",
+                "meaning": "궁합이 맞음"
+            },
+            {
+                "word": "根性",
+                "sound": "こんじょう",
+                "meaning": "근성"
+            }
+        ]
+    },
+    {
+        "kanji": "税",
+        "hanja": "稅",
+        "eumhun": "세금 세",
+        "jpSound": "ぜい",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "税金",
+                "sound": "ぜいきん",
+                "meaning": "세금"
+            },
+            {
+                "word": "免税",
+                "sound": "めんぜい",
+                "meaning": "면세"
+            },
+            {
+                "word": "関税",
+                "sound": "かんぜい",
+                "meaning": "관세"
+            }
+        ]
+    },
+    {
+        "kanji": "勢",
+        "hanja": "",
+        "eumhun": "형세 세",
+        "jpSound": "せい",
+        "jpMeaning": "いきおい",
+        "examples": [
+            {
+                "word": "勢力",
+                "sound": "せいりょく",
+                "meaning": "세력"
+            },
+            {
+                "word": "優勢",
+                "sound": "ゆうせい",
+                "meaning": "우세"
+            },
+            {
+                "word": "情勢",
+                "sound": "じょうせい",
+                "meaning": "정세"
+            },
+            {
+                "word": "勢い",
+                "sound": "いきおい",
+                "meaning": "힘, 기세, 당연하게"
+            }
+        ]
+    },
+    {
+        "kanji": "素",
+        "hanja": "",
+        "eumhun": "본디/흴[白] 소",
+        "jpSound": "そ、す",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "素材",
+                "sound": "そざい",
+                "meaning": "소재"
+            },
+            {
+                "word": "元素",
+                "sound": "げんそ",
+                "meaning": "원소"
+            },
+            {
+                "word": "平素",
+                "sound": "へいそ",
+                "meaning": "평소"
+            },
+            {
+                "word": "素顔",
+                "sound": "すがお",
+                "meaning": "민낯"
+            },
+            {
+                "word": "素手",
+                "sound": "すで",
+                "meaning": "맨손"
+            },
+            {
+                "word": "素性",
+                "sound": "すじょう",
+                "meaning": "혈통, 천성, 유래"
+            }
+        ]
+    },
+    {
+        "kanji": "属",
+        "hanja": "屬",
+        "eumhun": "붙일 속",
+        "jpSound": "ぞく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "属性",
+                "sound": "ぞくせい",
+                "meaning": "속성"
+            },
+            {
+                "word": "従属",
+                "sound": "じゅうぞく",
+                "meaning": "종속"
+            },
+            {
+                "word": "金属",
+                "sound": "きんぞく",
+                "meaning": "금속"
+            }
+        ]
+    },
+    {
+        "kanji": "損",
+        "hanja": "",
+        "eumhun": "덜 손",
+        "jpSound": "そん",
+        "jpMeaning": "そこなう、そこねる",
+        "examples": [
+            {
+                "word": "損失",
+                "sound": "そんしつ",
+                "meaning": "손실"
+            },
+            {
+                "word": "欠損",
+                "sound": "けっそん",
+                "meaning": "결손"
+            },
+            {
+                "word": "破損",
+                "sound": "はそん",
+                "meaning": "파손"
+            },
+            {
+                "word": "損なう",
+                "sound": "そこなう",
+                "meaning": "손상하다"
+            },
+            {
+                "word": "見損なう",
+                "sound": "みそこなう",
+                "meaning": "잘못 보다, 못 보다"
+            },
+            {
+                "word": "損ねる",
+                "sound": "そこねる",
+                "meaning": "손상하다"
+            }
+        ]
+    },
+    {
+        "kanji": "修",
+        "hanja": "",
+        "eumhun": "닦을 수",
+        "jpSound": "しゅう、しゅ",
+        "jpMeaning": "おさめる、おさまる",
+        "examples": [
+            {
+                "word": "修飾",
+                "sound": "しゅうしょく",
+                "meaning": "수식"
+            },
+            {
+                "word": "修養",
+                "sound": "しゅうよう",
+                "meaning": "수양"
+            },
+            {
+                "word": "改修",
+                "sound": "かいしゅう",
+                "meaning": "개수"
+            },
+            {
+                "word": "修行",
+                "sound": "しゅぎょう",
+                "meaning": "수행"
+            },
+            {
+                "word": "修める",
+                "sound": "おさめる",
+                "meaning": "닦다"
+            },
+            {
+                "word": "修まる",
+                "sound": "おさまる",
+                "meaning": "닦아지다"
+            }
+        ]
+    },
+    {
+        "kanji": "授",
+        "hanja": "",
+        "eumhun": "줄 수",
+        "jpSound": "じゅ",
+        "jpMeaning": "さずける、さずかる",
+        "examples": [
+            {
+                "word": "授与",
+                "sound": "じゅよ",
+                "meaning": "수여"
+            },
+            {
+                "word": "伝授",
+                "sound": "でんじゅ",
+                "meaning": "전수"
+            },
+            {
+                "word": "教授",
+                "sound": "きょうじゅ",
+                "meaning": "교수"
+            },
+            {
+                "word": "授ける",
+                "sound": "さずける",
+                "meaning": "주다, 전수하다"
+            },
+            {
+                "word": "授かる",
+                "sound": "さずかる",
+                "meaning": "내려주시다, 전수받다"
+            }
+        ]
+    },
+    {
+        "kanji": "輸",
+        "hanja": "輸",
+        "eumhun": "보낼 수",
+        "jpSound": "ゆ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "輸出",
+                "sound": "ゆしゅつ",
+                "meaning": "수출"
+            },
+            {
+                "word": "輸送",
+                "sound": "ゆそう",
+                "meaning": "수송"
+            },
+            {
+                "word": "運輸",
+                "sound": "うんゆ",
+                "meaning": "운수"
+            }
+        ]
+    },
+    {
+        "kanji": "述",
+        "hanja": "",
+        "eumhun": "펼 술",
+        "jpSound": "じゅつ",
+        "jpMeaning": "のべる",
+        "examples": [
+            {
+                "word": "叙述",
+                "sound": "じょじゅつ",
+                "meaning": "서술"
+            },
+            {
+                "word": "陳述",
+                "sound": "ちんじゅつ",
+                "meaning": "진술"
+            },
+            {
+                "word": "著述",
+                "sound": "ちょじゅつ",
+                "meaning": "저술"
+            },
+            {
+                "word": "述べる",
+                "sound": "のべる",
+                "meaning": "말하다, 기술하다"
+            }
+        ]
+    },
+    {
+        "kanji": "術",
+        "hanja": "",
+        "eumhun": "재주 술",
+        "jpSound": "じゅつ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "術策",
+                "sound": "じゅっさく",
+                "meaning": "술책"
+            },
+            {
+                "word": "技術",
+                "sound": "ぎじゅつ",
+                "meaning": "기술"
+            },
+            {
+                "word": "芸術",
+                "sound": "げいじゅつ",
+                "meaning": "예술"
+            }
+        ]
+    },
+    {
+        "kanji": "示",
+        "hanja": "",
+        "eumhun": "보일 시",
+        "jpSound": "じ、し",
+        "jpMeaning": "しめす",
+        "examples": [
+            {
+                "word": "示威",
+                "sound": "じい",
+                "meaning": "시위"
+            },
+            {
+                "word": "示談",
+                "sound": "じだん",
+                "meaning": "시담"
+            },
+            {
+                "word": "指示",
+                "sound": "しじ",
+                "meaning": "지시"
+            },
+            {
+                "word": "示唆",
+                "sound": "しさ",
+                "meaning": "시사"
+            },
+            {
+                "word": "示す",
+                "sound": "しめす",
+                "meaning": "가리키다, 보이다"
+            },
+            {
+                "word": "示し",
+                "sound": "しめし",
+                "meaning": "계시, 본보기"
+            }
+        ]
+    },
+    {
+        "kanji": "識",
+        "hanja": "",
+        "eumhun": "알 식",
+        "jpSound": "しき",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "識別",
+                "sound": "しきべつ",
+                "meaning": "식별"
+            },
+            {
+                "word": "意識",
+                "sound": "いしき",
+                "meaning": "의식"
+            },
+            {
+                "word": "知識",
+                "sound": "ちしき",
+                "meaning": "지식"
+            }
+        ]
+    },
+    {
+        "kanji": "眼",
+        "hanja": "",
+        "eumhun": "눈 안",
+        "jpSound": "がん、げん",
+        "jpMeaning": "まなこ",
+        "examples": [
+            {
+                "word": "眼球",
+                "sound": "がんきゅう",
+                "meaning": "안구"
+            },
+            {
+                "word": "眼力",
+                "sound": "がんりき",
+                "meaning": "안력"
+            },
+            {
+                "word": "主眼",
+                "sound": "しゅがん",
+                "meaning": "주안"
+            },
+            {
+                "word": "開眼",
+                "sound": "かいげん",
+                "meaning": "개안"
+            },
+            {
+                "word": "眼",
+                "sound": "まなこ",
+                "meaning": "눈"
+            },
+            {
+                "word": "どんぐり眼",
+                "sound": "どんぐりまなこ",
+                "meaning": "왕눈"
+            },
+            {
+                "word": "血眼",
+                "sound": "ちまなこ",
+                "meaning": "혈안"
+            }
+        ]
+    },
+    {
+        "kanji": "圧",
+        "hanja": "壓",
+        "eumhun": "누를 압",
+        "jpSound": "あつ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "圧力",
+                "sound": "あつりょく",
+                "meaning": "압력"
+            },
+            {
+                "word": "圧迫",
+                "sound": "あっぱく",
+                "meaning": "압박"
+            },
+            {
+                "word": "気圧",
+                "sound": "きあつ",
+                "meaning": "기압"
+            }
+        ]
+    },
+    {
+        "kanji": "液",
+        "hanja": "",
+        "eumhun": "진 액",
+        "jpSound": "えき",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "液体",
+                "sound": "えきたい",
+                "meaning": "액체"
+            },
+            {
+                "word": "液状",
+                "sound": "えきじょう",
+                "meaning": "액상"
+            },
+            {
+                "word": "血液",
+                "sound": "けつえき",
+                "meaning": "혈액"
+            }
+        ]
+    },
+    {
+        "kanji": "額",
+        "hanja": "",
+        "eumhun": "이마 액",
+        "jpSound": "がく",
+        "jpMeaning": "ひたい",
+        "examples": [
+            {
+                "word": "額縁",
+                "sound": "がくぶち",
+                "meaning": "액자"
+            },
+            {
+                "word": "金額",
+                "sound": "きんがく",
+                "meaning": "금액"
+            },
+            {
+                "word": "前額部",
+                "sound": "ぜんがくぶ",
+                "meaning": "앞이마"
+            },
+            {
+                "word": "額",
+                "sound": "ひたい",
+                "meaning": "이마"
+            }
+        ]
+    },
+    {
+        "kanji": "桜",
+        "hanja": "櫻",
+        "eumhun": "앵두 앵",
+        "jpSound": "おう",
+        "jpMeaning": "さくら",
+        "examples": [
+            {
+                "word": "桜花",
+                "sound": "おうか",
+                "meaning": "앵화, 벚꽃"
+            },
+            {
+                "word": "観桜",
+                "sound": "かんおう",
+                "meaning": "벚꽃 구경"
+            },
+            {
+                "word": "桜",
+                "sound": "さくら",
+                "meaning": "벚나무, 벚꽃"
+            },
+            {
+                "word": "桜色",
+                "sound": "さくらいろ",
+                "meaning": "연분홍색"
+            },
+            {
+                "word": "葉桜",
+                "sound": "はざくら",
+                "meaning": "새잎이 난 벚나무"
+            }
+        ]
+    },
+    {
+        "kanji": "余",
+        "hanja": "",
+        "eumhun": "나 여",
+        "jpSound": "よ",
+        "jpMeaning": "あまる、あます",
+        "examples": [
+            {
+                "word": "余剰",
+                "sound": "よじょう",
+                "meaning": "잉여"
+            },
+            {
+                "word": "余地",
+                "sound": "よち",
+                "meaning": "여지"
+            },
+            {
+                "word": "残余",
+                "sound": "ざんよ",
+                "meaning": "잔여"
+            },
+            {
+                "word": "余る",
+                "sound": "あまる",
+                "meaning": "남다"
+            },
+            {
+                "word": "余り",
+                "sound": "あまり",
+                "meaning": "나머지, 그다지, 너무"
+            },
+            {
+                "word": "余す",
+                "sound": "あます",
+                "meaning": "남기다"
+            }
+        ]
+    },
+    {
+        "kanji": "易",
+        "hanja": "",
+        "eumhun": "바꿀 역 | 쉬울 이",
+        "jpSound": "えき、い",
+        "jpMeaning": "やさしい",
+        "examples": [
+            {
+                "word": "易者",
+                "sound": "えきしゃ",
+                "meaning": "역자"
+            },
+            {
+                "word": "貿易",
+                "sound": "ぼうえき",
+                "meaning": "무역"
+            },
+            {
+                "word": "不易",
+                "sound": "ふえき",
+                "meaning": "불역"
+            },
+            {
+                "word": "容易",
+                "sound": "ようい",
+                "meaning": "용이"
+            },
+            {
+                "word": "安易",
+                "sound": "あんい",
+                "meaning": "안이"
+            },
+            {
+                "word": "難易",
+                "sound": "なんい",
+                "meaning": "난이"
+            },
+            {
+                "word": "易しい",
+                "sound": "やさしい",
+                "meaning": "쉽다"
+            },
+            {
+                "word": "易しさ",
+                "sound": "やさしさ",
+                "meaning": "쉬움"
+            }
+        ]
+    },
+    {
+        "kanji": "逆",
+        "hanja": "",
+        "eumhun": "거스릴 역",
+        "jpSound": "ぎゃく",
+        "jpMeaning": "さか、さからう",
+        "examples": [
+            {
+                "word": "逆上",
+                "sound": "ぎゃくじょう",
+                "meaning": "욱함"
+            },
+            {
+                "word": "逆転",
+                "sound": "ぎゃくてん",
+                "meaning": "역전"
+            },
+            {
+                "word": "順逆",
+                "sound": "じゅんぎゃく",
+                "meaning": "순역"
+            },
+            {
+                "word": "逆立つ",
+                "sound": "さかだつ",
+                "meaning": "거꾸로 서다, 곤두서다"
+            },
+            {
+                "word": "逆さ",
+                "sound": "さかさ",
+                "meaning": "거꾸로 됨"
+            },
+            {
+                "word": "逆さま",
+                "sound": "さかさま",
+                "meaning": "반대로 됨"
+            },
+            {
+                "word": "逆らう",
+                "sound": "さからう",
+                "meaning": "거스르다"
+            }
+        ]
+    },
+    {
+        "kanji": "演",
+        "hanja": "",
+        "eumhun": "펼 연",
+        "jpSound": "えん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "演技",
+                "sound": "えんぎ",
+                "meaning": "연기"
+            },
+            {
+                "word": "演奏",
+                "sound": "えんそう",
+                "meaning": "연주"
+            },
+            {
+                "word": "講演",
+                "sound": "こうえん",
+                "meaning": "강연"
+            }
+        ]
+    },
+    {
+        "kanji": "燃",
+        "hanja": "",
+        "eumhun": "탈 연",
+        "jpSound": "ねん",
+        "jpMeaning": "もえる",
+        "examples": [
+            {
+                "word": "燃焼",
+                "sound": "ねんしょう",
+                "meaning": "연소"
+            },
+            {
+                "word": "燃料",
+                "sound": "ねんりょう",
+                "meaning": "연료"
+            },
+            {
+                "word": "可燃性",
+                "sound": "かねんせい",
+                "meaning": "가연성"
+            },
+            {
+                "word": "燃える",
+                "sound": "もえる",
+                "meaning": "타다"
+            },
+            {
+                "word": "燃え尽きる",
+                "sound": "もえつきる",
+                "meaning": "완전히 타버리다"
+            },
+            {
+                "word": "燃やす",
+                "sound": "もやす",
+                "meaning": "불태우다"
+            },
+            {
+                "word": "燃す",
+                "sound": "もす",
+                "meaning": "태우다"
+            }
+        ]
+    },
+    {
+        "kanji": "永",
+        "hanja": "",
+        "eumhun": "길 영",
+        "jpSound": "えい",
+        "jpMeaning": "ながい",
+        "examples": [
+            {
+                "word": "永続",
+                "sound": "えいぞく",
+                "meaning": "영속"
+            },
+            {
+                "word": "永久",
+                "sound": "えいきゅう",
+                "meaning": "영구"
+            },
+            {
+                "word": "永遠",
+                "sound": "えいえん",
+                "meaning": "영원"
+            },
+            {
+                "word": "永い",
+                "sound": "ながい",
+                "meaning": "아주 오래다, 영원하다"
+            },
+            {
+                "word": "日永",
+                "sound": "ひなが",
+                "meaning": "긴 낮"
+            }
+        ]
+    },
+    {
+        "kanji": "営",
+        "hanja": "營",
+        "eumhun": "경영할 영",
+        "jpSound": "えい",
+        "jpMeaning": "いとなむ",
+        "examples": [
+            {
+                "word": "営業",
+                "sound": "えいぎょう",
+                "meaning": "영업"
+            },
+            {
+                "word": "経営",
+                "sound": "けいえい",
+                "meaning": "경영"
+            },
+            {
+                "word": "陣営",
+                "sound": "じんえい",
+                "meaning": "진영"
+            },
+            {
+                "word": "営む",
+                "sound": "いとなむ",
+                "meaning": "경영하다, 영위하다, 마련하다"
+            },
+            {
+                "word": "営み",
+                "sound": "いとなみ",
+                "meaning": "일, 준비"
+            }
+        ]
+    },
+    {
+        "kanji": "往",
+        "hanja": "",
+        "eumhun": "갈 왕",
+        "jpSound": "おう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "往復",
+                "sound": "おうふく",
+                "meaning": "왕복"
+            },
+            {
+                "word": "往来",
+                "sound": "おうらい",
+                "meaning": "왕래"
+            },
+            {
+                "word": "既往症",
+                "sound": "きおうしょう",
+                "meaning": "기왕증"
+            }
+        ]
+    },
+    {
+        "kanji": "容",
+        "hanja": "",
+        "eumhun": "얼굴 용",
+        "jpSound": "よう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "容易",
+                "sound": "ようい",
+                "meaning": "용이"
+            },
+            {
+                "word": "容器",
+                "sound": "ようき",
+                "meaning": "용기"
+            },
+            {
+                "word": "形容",
+                "sound": "けいよう",
+                "meaning": "형용"
+            }
+        ]
+    },
+    {
+        "kanji": "囲",
+        "hanja": "圍",
+        "eumhun": "에워쌀 위",
+        "jpSound": "い",
+        "jpMeaning": "かこむ、かこう",
+        "examples": [
+            {
+                "word": "囲碁",
+                "sound": "いご",
+                "meaning": "위기"
+            },
+            {
+                "word": "包囲",
+                "sound": "ほうい",
+                "meaning": "포위"
+            },
+            {
+                "word": "範囲",
+                "sound": "はんい",
+                "meaning": "범위"
+            },
+            {
+                "word": "囲む",
+                "sound": "かこむ",
+                "meaning": "둘러싸다"
+            },
+            {
+                "word": "囲み",
+                "sound": "かこみ",
+                "meaning": "에워쌈"
+            },
+            {
+                "word": "囲う",
+                "sound": "かこう",
+                "meaning": "에워싸다, 숨겨 두다"
+            },
+            {
+                "word": "囲い",
+                "sound": "かこい",
+                "meaning": "둘러쌈, 울타리, 둘레"
+            }
+        ]
+    },
+    {
+        "kanji": "衛",
+        "hanja": "",
+        "eumhun": "지킬 위",
+        "jpSound": "えい",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "衛生",
+                "sound": "えいせい",
+                "meaning": "위생"
+            },
+            {
+                "word": "護衛",
+                "sound": "ごえい",
+                "meaning": "호위"
+            },
+            {
+                "word": "守衛",
+                "sound": "しゅえい",
+                "meaning": "수위"
+            }
+        ]
+    },
+    {
+        "kanji": "応",
+        "hanja": "應",
+        "eumhun": "응할 응",
+        "jpSound": "おう",
+        "jpMeaning": "こたえる",
+        "examples": [
+            {
+                "word": "応答",
+                "sound": "おうとう",
+                "meaning": "응답"
+            },
+            {
+                "word": "応用",
+                "sound": "おうよう",
+                "meaning": "응용"
+            },
+            {
+                "word": "呼応",
+                "sound": "こおう",
+                "meaning": "호응"
+            },
+            {
+                "word": "応える",
+                "sound": "こたえる",
+                "meaning": "응하다"
+            }
+        ]
+    },
+    {
+        "kanji": "義",
+        "hanja": "",
+        "eumhun": "옳을 의",
+        "jpSound": "ぎ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "義理",
+                "sound": "ぎり",
+                "meaning": "의리"
+            },
+            {
+                "word": "意義",
+                "sound": "いぎ",
+                "meaning": "의의"
+            },
+            {
+                "word": "正義",
+                "sound": "せいぎ",
+                "meaning": "정의"
+            }
+        ]
+    },
+    {
+        "kanji": "移",
+        "hanja": "",
+        "eumhun": "옮길 이",
+        "jpSound": "い",
+        "jpMeaning": "うつる、うつす",
+        "examples": [
+            {
+                "word": "移転",
+                "sound": "いてん",
+                "meaning": "이전"
+            },
+            {
+                "word": "移民",
+                "sound": "いみん",
+                "meaning": "이민"
+            },
+            {
+                "word": "推移",
+                "sound": "すいい",
+                "meaning": "추이"
+            },
+            {
+                "word": "移る",
+                "sound": "うつる",
+                "meaning": "옮기다"
+            },
+            {
+                "word": "移り変わり",
+                "sound": "うつりかわり",
+                "meaning": "변천"
+            },
+            {
+                "word": "移す",
+                "sound": "うつす",
+                "meaning": "옮기다"
+            }
+        ]
+    },
+    {
+        "kanji": "益",
+        "hanja": "益",
+        "eumhun": "더할 익",
+        "jpSound": "えき、やく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "有益",
+                "sound": "ゆうえき",
+                "meaning": "유익"
+            },
+            {
+                "word": "利益",
+                "sound": "りえき",
+                "meaning": "이익"
+            },
+            {
+                "word": "益する",
+                "sound": "えきする",
+                "meaning": "유익하다"
+            },
+            {
+                "word": "御利益",
+                "sound": "ごりやく",
+                "meaning": "신불의 은혜"
+            }
+        ]
+    },
+    {
+        "kanji": "因",
+        "hanja": "",
+        "eumhun": "인할 인",
+        "jpSound": "いん",
+        "jpMeaning": "よる",
+        "examples": [
+            {
+                "word": "因果",
+                "sound": "いんが",
+                "meaning": "인과"
+            },
+            {
+                "word": "原因",
+                "sound": "げんいん",
+                "meaning": "원인"
+            },
+            {
+                "word": "要因",
+                "sound": "よういん",
+                "meaning": "요인"
+            },
+            {
+                "word": "因る",
+                "sound": "よる",
+                "meaning": "기인하다"
+            },
+            {
+                "word": "……に因る",
+                "sound": "…による",
+                "meaning": "…에 의하다"
+            }
+        ]
+    },
+    {
+        "kanji": "任",
+        "hanja": "",
+        "eumhun": "맡길 임",
+        "jpSound": "にん",
+        "jpMeaning": "まかせる、まかす",
+        "examples": [
+            {
+                "word": "任意",
+                "sound": "にんい",
+                "meaning": "임의"
+            },
+            {
+                "word": "任務",
+                "sound": "にんむ",
+                "meaning": "임무"
+            },
+            {
+                "word": "責任",
+                "sound": "せきにん",
+                "meaning": "책임"
+            },
+            {
+                "word": "任せる",
+                "sound": "まかせる",
+                "meaning": "맡기다"
+            },
+            {
+                "word": "人任せ",
+                "sound": "ひとまかせ",
+                "meaning": "남에게 맡김"
+            },
+            {
+                "word": "任す",
+                "sound": "まかす",
+                "meaning": "맡기다"
+            }
+        ]
+    },
+    {
+        "kanji": "資",
+        "hanja": "",
+        "eumhun": "재물 자",
+        "jpSound": "し",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "資本",
+                "sound": "しほん",
+                "meaning": "자본"
+            },
+            {
+                "word": "資格",
+                "sound": "しかく",
+                "meaning": "자격"
+            },
+            {
+                "word": "物資",
+                "sound": "ぶっし",
+                "meaning": "물자"
+            },
+            {
+                "word": "資料",
+                "sound": "しりょう",
+                "meaning": "자료"
+            }
+        ]
+    },
+    {
+        "kanji": "雑",
+        "hanja": "雜",
+        "eumhun": "섞일 잡",
+        "jpSound": "ざつ、ぞう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "雑談",
+                "sound": "ざつだん",
+                "meaning": "잡담"
+            },
+            {
+                "word": "雑音",
+                "sound": "ざつおん",
+                "meaning": "잡음"
+            },
+            {
+                "word": "混雑",
+                "sound": "こんざつ",
+                "meaning": "혼잡"
+            },
+            {
+                "word": "雑炊",
+                "sound": "ぞうすい",
+                "meaning": "조우스이"
+            },
+            {
+                "word": "雑木林",
+                "sound": "ぞうきばやし",
+                "meaning": "잡목림"
+            },
+            {
+                "word": "雑兵",
+                "sound": "ぞうひょう",
+                "meaning": "졸병"
+            }
+        ]
+    },
+    {
+        "kanji": "張",
+        "hanja": "",
+        "eumhun": "베풀 장",
+        "jpSound": "ちょう",
+        "jpMeaning": "はる",
+        "examples": [
+            {
+                "word": "張力",
+                "sound": "ちょうりょく",
+                "meaning": "장력"
+            },
+            {
+                "word": "拡張",
+                "sound": "かくちょう",
+                "meaning": "확장"
+            },
+            {
+                "word": "主張",
+                "sound": "しゅちょう",
+                "meaning": "주장"
+            },
+            {
+                "word": "張る",
+                "sound": "はる",
+                "meaning": "뻗다"
+            },
+            {
+                "word": "欲張る",
+                "sound": "よくばる",
+                "meaning": "욕심부리다"
+            },
+            {
+                "word": "引っ張る",
+                "sound": "ひっぱる",
+                "meaning": "잡아당기다"
+            }
+        ]
+    },
+    {
+        "kanji": "在",
+        "hanja": "",
+        "eumhun": "있을 재",
+        "jpSound": "ざい",
+        "jpMeaning": "ある",
+        "examples": [
+            {
+                "word": "在留",
+                "sound": "ざいりゅう",
+                "meaning": "재류"
+            },
+            {
+                "word": "在宅",
+                "sound": "ざいたく",
+                "meaning": "재택"
+            },
+            {
+                "word": "存在",
+                "sound": "そんざい",
+                "meaning": "존재"
+            },
+            {
+                "word": "在る",
+                "sound": "ある",
+                "meaning": "있다"
+            },
+            {
+                "word": "在りし日",
+                "sound": "ありしひ",
+                "meaning": "지난날"
+            }
+        ]
+    },
+    {
+        "kanji": "再",
+        "hanja": "",
+        "eumhun": "두 재",
+        "jpSound": "さい、さ",
+        "jpMeaning": "ふたたび",
+        "examples": [
+            {
+                "word": "再度",
+                "sound": "さいど",
+                "meaning": "재차"
+            },
+            {
+                "word": "再選",
+                "sound": "さいせん",
+                "meaning": "재선"
+            },
+            {
+                "word": "再出発",
+                "sound": "さいしゅっぱつ",
+                "meaning": "재출발"
+            },
+            {
+                "word": "再来年",
+                "sound": "さらいねん",
+                "meaning": "내후년"
+            },
+            {
+                "word": "再来月",
+                "sound": "さらいげつ",
+                "meaning": "다다음 달"
+            },
+            {
+                "word": "再来週",
+                "sound": "さらいしゅう",
+                "meaning": "다다음 주"
+            },
+            {
+                "word": "再び",
+                "sound": "ふたたび",
+                "meaning": "재차"
+            }
+        ]
+    },
+    {
+        "kanji": "災",
+        "hanja": "",
+        "eumhun": "재앙 재",
+        "jpSound": "さい",
+        "jpMeaning": "わざわい",
+        "examples": [
+            {
+                "word": "災害",
+                "sound": "さいがい",
+                "meaning": "재해"
+            },
+            {
+                "word": "災難",
+                "sound": "さいなん",
+                "meaning": "재난"
+            },
+            {
+                "word": "火災",
+                "sound": "かさい",
+                "meaning": "화재"
+            },
+            {
+                "word": "災い",
+                "sound": "わざわい",
+                "meaning": "재앙"
+            }
+        ]
+    },
+    {
+        "kanji": "財",
+        "hanja": "",
+        "eumhun": "재물 재",
+        "jpSound": "ざい、さい",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "財産",
+                "sound": "ざいさん",
+                "meaning": "재산"
+            },
+            {
+                "word": "私財",
+                "sound": "しざい",
+                "meaning": "사재"
+            },
+            {
+                "word": "文化財",
+                "sound": "ぶんかざい",
+                "meaning": "문화재"
+            },
+            {
+                "word": "財布",
+                "sound": "さいふ",
+                "meaning": "지갑"
+            }
+        ]
+    },
+    {
+        "kanji": "貯",
+        "hanja": "",
+        "eumhun": "쌓을 저",
+        "jpSound": "ちょ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "貯蓄",
+                "sound": "ちょちく",
+                "meaning": "저축"
+            },
+            {
+                "word": "貯金",
+                "sound": "ちょきん",
+                "meaning": "저금"
+            },
+            {
+                "word": "貯水池",
+                "sound": "ちょすいち",
+                "meaning": "저수지"
+            }
+        ]
+    },
+    {
+        "kanji": "適",
+        "hanja": "",
+        "eumhun": "맞을 적",
+        "jpSound": "てき",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "適切",
+                "sound": "てきせつ",
+                "meaning": "적절"
+            },
+            {
+                "word": "適度",
+                "sound": "てきど",
+                "meaning": "적도"
+            },
+            {
+                "word": "快適",
+                "sound": "かいてき",
+                "meaning": "쾌적"
+            }
+        ]
+    },
+    {
+        "kanji": "績",
+        "hanja": "",
+        "eumhun": "길쌈 적",
+        "jpSound": "せき",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "紡績",
+                "sound": "ぼうせき",
+                "meaning": "방적"
+            },
+            {
+                "word": "成績",
+                "sound": "せいせき",
+                "meaning": "성적"
+            },
+            {
+                "word": "業績",
+                "sound": "ぎょうせき",
+                "meaning": "업적"
+            }
+        ]
+    },
+    {
+        "kanji": "絶",
+        "hanja": "",
+        "eumhun": "끊을 절",
+        "jpSound": "ぜつ",
+        "jpMeaning": "たえる、たやす、たつ",
+        "examples": [
+            {
+                "word": "絶妙",
+                "sound": "ぜつみょう",
+                "meaning": "절묘"
+            },
+            {
+                "word": "絶食",
+                "sound": "ぜっしょく",
+                "meaning": "절식"
+            },
+            {
+                "word": "断絶",
+                "sound": "だんぜつ",
+                "meaning": "단절"
+            },
+            {
+                "word": "絶える",
+                "sound": "たえる",
+                "meaning": "끊어지다"
+            },
+            {
+                "word": "絶やす",
+                "sound": "たやす",
+                "meaning": "끊어지게 하다"
+            },
+            {
+                "word": "絶つ",
+                "sound": "たつ",
+                "meaning": "끊다"
+            }
+        ]
+    },
+    {
+        "kanji": "接",
+        "hanja": "",
+        "eumhun": "이을 접",
+        "jpSound": "せつ",
+        "jpMeaning": "つぐ",
+        "examples": [
+            {
+                "word": "接触",
+                "sound": "せっしょく",
+                "meaning": "접촉"
+            },
+            {
+                "word": "接待",
+                "sound": "せったい",
+                "meaning": "접대"
+            },
+            {
+                "word": "直接",
+                "sound": "ちょくせつ",
+                "meaning": "직접"
+            },
+            {
+                "word": "接ぐ",
+                "sound": "つぐ",
+                "meaning": "잇다"
+            },
+            {
+                "word": "接ぎ木",
+                "sound": "つぎき",
+                "meaning": "접목"
+            },
+            {
+                "word": "骨接ぎ",
+                "sound": "ほねつぎ",
+                "meaning": "접골"
+            }
+        ]
+    },
+    {
+        "kanji": "停",
+        "hanja": "",
+        "eumhun": "머무를 정",
+        "jpSound": "てい",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "停止",
+                "sound": "ていし",
+                "meaning": "정지"
+            },
+            {
+                "word": "停車",
+                "sound": "ていしゃ",
+                "meaning": "정차"
+            },
+            {
+                "word": "調停",
+                "sound": "ちょうてい",
+                "meaning": "조정"
+            }
+        ]
+    },
+    {
+        "kanji": "政",
+        "hanja": "",
+        "eumhun": "정사(政事) 정",
+        "jpSound": "せい、しょう",
+        "jpMeaning": "まつりごと",
+        "examples": [
+            {
+                "word": "政治",
+                "sound": "せいじ",
+                "meaning": "정치"
+            },
+            {
+                "word": "行政",
+                "sound": "ぎょうせい",
+                "meaning": "행정"
+            },
+            {
+                "word": "家政",
+                "sound": "かせい",
+                "meaning": "가정"
+            },
+            {
+                "word": "摂政",
+                "sound": "せっしょう",
+                "meaning": "섭정"
+            },
+            {
+                "word": "政",
+                "sound": "まつりごと",
+                "meaning": "정사"
+            }
+        ]
+    },
+    {
+        "kanji": "情",
+        "hanja": "情",
+        "eumhun": "뜻 정",
+        "jpSound": "じょう、せい",
+        "jpMeaning": "なさけ",
+        "examples": [
+            {
+                "word": "情報",
+                "sound": "じょうほう",
+                "meaning": "정보"
+            },
+            {
+                "word": "情熱",
+                "sound": "じょうねつ",
+                "meaning": "정열"
+            },
+            {
+                "word": "人情",
+                "sound": "にんじょう",
+                "meaning": "인정"
+            },
+            {
+                "word": "風情",
+                "sound": "ふぜい",
+                "meaning": "풍정"
+            },
+            {
+                "word": "情け",
+                "sound": "なさけ",
+                "meaning": "정"
+            }
+        ]
+    },
+    {
+        "kanji": "程",
+        "hanja": "",
+        "eumhun": "한도/길[道] 정",
+        "jpSound": "てい",
+        "jpMeaning": "ほど",
+        "examples": [
+            {
+                "word": "程度",
+                "sound": "ていど",
+                "meaning": "정도"
+            },
+            {
+                "word": "日程",
+                "sound": "にってい",
+                "meaning": "일정"
+            },
+            {
+                "word": "過程",
+                "sound": "かてい",
+                "meaning": "과정"
+            },
+            {
+                "word": "程",
+                "sound": "ほど",
+                "meaning": "한계, 정도"
+            },
+            {
+                "word": "程遠い",
+                "sound": "ほどとおい",
+                "meaning": "좀 멀다"
+            },
+            {
+                "word": "身の程",
+                "sound": "みのほど",
+                "meaning": "분수"
+            }
+        ]
+    },
+    {
+        "kanji": "精",
+        "hanja": "精",
+        "eumhun": "정할 정",
+        "jpSound": "せい、しょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "精米",
+                "sound": "せいまい",
+                "meaning": "정미"
+            },
+            {
+                "word": "精密",
+                "sound": "せいみつ",
+                "meaning": "정밀"
+            },
+            {
+                "word": "精力",
+                "sound": "せいりょく",
+                "meaning": "정력"
+            },
+            {
+                "word": "精進",
+                "sound": "しょうじん",
+                "meaning": "정진"
+            },
+            {
+                "word": "不精",
+                "sound": "ぶしょう",
+                "meaning": "귀찮아함"
+            }
+        ]
+    },
+    {
+        "kanji": "制",
+        "hanja": "",
+        "eumhun": "절제할 제",
+        "jpSound": "せい",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "制度",
+                "sound": "せいど",
+                "meaning": "제도"
+            },
+            {
+                "word": "制限",
+                "sound": "せいげん",
+                "meaning": "제한"
+            },
+            {
+                "word": "統制",
+                "sound": "とうせい",
+                "meaning": "통제"
+            }
+        ]
+    },
+    {
+        "kanji": "提",
+        "hanja": "",
+        "eumhun": "끌 제",
+        "jpSound": "てい",
+        "jpMeaning": "さげる",
+        "examples": [
+            {
+                "word": "提供",
+                "sound": "ていきょう",
+                "meaning": "제공"
+            },
+            {
+                "word": "提案",
+                "sound": "ていあん",
+                "meaning": "제안"
+            },
+            {
+                "word": "前提",
+                "sound": "ぜんてい",
+                "meaning": "전제"
+            },
+            {
+                "word": "提げる",
+                "sound": "さげる",
+                "meaning": "들다"
+            },
+            {
+                "word": "手提げ",
+                "sound": "てさげ",
+                "meaning": "손가방"
+            }
+        ]
+    },
+    {
+        "kanji": "製",
+        "hanja": "",
+        "eumhun": "지을 제",
+        "jpSound": "せい",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "製造",
+                "sound": "せいぞう",
+                "meaning": "제조"
+            },
+            {
+                "word": "製鉄",
+                "sound": "せいてつ",
+                "meaning": "제철"
+            },
+            {
+                "word": "鉄製",
+                "sound": "てっせい",
+                "meaning": "철제"
+            }
+        ]
+    },
+    {
+        "kanji": "際",
+        "hanja": "",
+        "eumhun": "즈음/가[邊] 제",
+        "jpSound": "さい",
+        "jpMeaning": "きわ",
+        "examples": [
+            {
+                "word": "際限",
+                "sound": "さいげん",
+                "meaning": "제한"
+            },
+            {
+                "word": "交際",
+                "sound": "こうさい",
+                "meaning": "교제"
+            },
+            {
+                "word": "この際",
+                "sound": "このさい",
+                "meaning": "차제"
+            },
+            {
+                "word": "際",
+                "sound": "きわ",
+                "meaning": "가장자리, 근처"
+            },
+            {
+                "word": "際立つ",
+                "sound": "きわだつ",
+                "meaning": "뛰어나다"
+            },
+            {
+                "word": "窓際",
+                "sound": "まどぎわ",
+                "meaning": "창가"
+            }
+        ]
+    },
+    {
+        "kanji": "条",
+        "hanja": "條",
+        "eumhun": "가지 조",
+        "jpSound": "じょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "条理",
+                "sound": "じょうり",
+                "meaning": "조리"
+            },
+            {
+                "word": "条約",
+                "sound": "じょうやく",
+                "meaning": "조약"
+            },
+            {
+                "word": "箇条",
+                "sound": "かじょう",
+                "meaning": "개조"
+            }
+        ]
+    },
+    {
+        "kanji": "祖",
+        "hanja": "祖",
+        "eumhun": "할아비 조",
+        "jpSound": "そ",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "祖父",
+                "sound": "そふ",
+                "meaning": "조부"
+            },
+            {
+                "word": "祖述",
+                "sound": "そじゅつ",
+                "meaning": "조술"
+            },
+            {
+                "word": "元祖",
+                "sound": "がんそ",
+                "meaning": "원조"
+            }
+        ]
+    },
+    {
+        "kanji": "造",
+        "hanja": "",
+        "eumhun": "지을 조",
+        "jpSound": "ぞう",
+        "jpMeaning": "つくる",
+        "examples": [
+            {
+                "word": "造船",
+                "sound": "ぞうせん",
+                "meaning": "조선"
+            },
+            {
+                "word": "造花",
+                "sound": "ぞうか",
+                "meaning": "조화"
+            },
+            {
+                "word": "構造",
+                "sound": "こうぞう",
+                "meaning": "구조"
+            },
+            {
+                "word": "造る",
+                "sound": "つくる",
+                "meaning": "만들다"
+            }
+        ]
+    },
+    {
+        "kanji": "罪",
+        "hanja": "",
+        "eumhun": "허물 죄",
+        "jpSound": "ざい",
+        "jpMeaning": "つみ",
+        "examples": [
+            {
+                "word": "罪状",
+                "sound": "ざいじょう",
+                "meaning": "죄상"
+            },
+            {
+                "word": "犯罪",
+                "sound": "はんざい",
+                "meaning": "범죄"
+            },
+            {
+                "word": "謝罪",
+                "sound": "しゃざい",
+                "meaning": "사죄"
+            },
+            {
+                "word": "罪",
+                "sound": "つみ",
+                "meaning": "죄"
+            }
+        ]
+    },
+    {
+        "kanji": "準",
+        "hanja": "",
+        "eumhun": "준할 준",
+        "jpSound": "じゅん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "準備",
+                "sound": "じゅんび",
+                "meaning": "준비"
+            },
+            {
+                "word": "基準",
+                "sound": "きじゅん",
+                "meaning": "기준"
+            },
+            {
+                "word": "標準",
+                "sound": "ひょうじゅん",
+                "meaning": "표준"
+            }
+        ]
+    },
+    {
+        "kanji": "証",
+        "hanja": "證",
+        "eumhun": "증거 증",
+        "jpSound": "しょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "証拠",
+                "sound": "しょうこ",
+                "meaning": "증거"
+            },
+            {
+                "word": "証明",
+                "sound": "しょうめい",
+                "meaning": "증명"
+            },
+            {
+                "word": "免許証",
+                "sound": "めんきょしょう",
+                "meaning": "면허증"
+            }
+        ]
+    },
+    {
+        "kanji": "増",
+        "hanja": "增",
+        "eumhun": "더할 증",
+        "jpSound": "ぞう",
+        "jpMeaning": "ます、ふえる、ふやす",
+        "examples": [
+            {
+                "word": "増減",
+                "sound": "ぞうげん",
+                "meaning": "증감"
+            },
+            {
+                "word": "増加",
+                "sound": "ぞうか",
+                "meaning": "증가"
+            },
+            {
+                "word": "激増",
+                "sound": "げきぞう",
+                "meaning": "격증"
+            },
+            {
+                "word": "増す",
+                "sound": "ます",
+                "meaning": "많아지다, 늘리다"
+            },
+            {
+                "word": "水増し",
+                "sound": "みずまし",
+                "meaning": "물을 타서 양을 늘림"
+            },
+            {
+                "word": "増える",
+                "sound": "ふえる",
+                "meaning": "늘다"
+            },
+            {
+                "word": "増やす",
+                "sound": "ふやす",
+                "meaning": "늘리다"
+            }
+        ]
+    },
+    {
+        "kanji": "支",
+        "hanja": "",
+        "eumhun": "지탱할 지",
+        "jpSound": "し",
+        "jpMeaning": "ささえる",
+        "examples": [
+            {
+                "word": "支持",
+                "sound": "しじ",
+                "meaning": "지지"
+            },
+            {
+                "word": "支障",
+                "sound": "ししょう",
+                "meaning": "지장"
+            },
+            {
+                "word": "支店",
+                "sound": "してん",
+                "meaning": "지점"
+            },
+            {
+                "word": "支える",
+                "sound": "ささえる",
+                "meaning": "버티다"
+            },
+            {
+                "word": "支え",
+                "sound": "ささえ",
+                "meaning": "받침"
+            }
+        ]
+    },
+    {
+        "kanji": "志",
+        "hanja": "",
+        "eumhun": "뜻 지",
+        "jpSound": "し",
+        "jpMeaning": "こころざし、こころざす",
+        "examples": [
+            {
+                "word": "志望",
+                "sound": "しぼう",
+                "meaning": "지망"
+            },
+            {
+                "word": "有志",
+                "sound": "ゆうし",
+                "meaning": "유지"
+            },
+            {
+                "word": "寸志",
+                "sound": "すんし",
+                "meaning": "촌지"
+            },
+            {
+                "word": "志す",
+                "sound": "こころざす",
+                "meaning": "뜻하다"
+            },
+            {
+                "word": "志",
+                "sound": "こころざし",
+                "meaning": "뜻"
+            }
+        ]
+    },
+    {
+        "kanji": "枝",
+        "hanja": "",
+        "eumhun": "가지 지",
+        "jpSound": "し",
+        "jpMeaning": "えだ",
+        "examples": [
+            {
+                "word": "枝葉",
+                "sound": "しよう",
+                "meaning": "지엽"
+            },
+            {
+                "word": "枝",
+                "sound": "えだ",
+                "meaning": "가지"
+            }
+        ]
+    },
+    {
+        "kanji": "職",
+        "hanja": "",
+        "eumhun": "직분 직",
+        "jpSound": "しょく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "職業",
+                "sound": "しょくぎょう",
+                "meaning": "직업"
+            },
+            {
+                "word": "職務",
+                "sound": "しょくむ",
+                "meaning": "직무"
+            },
+            {
+                "word": "就職",
+                "sound": "しゅうしょく",
+                "meaning": "취직"
+            }
+        ]
+    },
+    {
+        "kanji": "織",
+        "hanja": "",
+        "eumhun": "짤 직",
+        "jpSound": "しょく、しき",
+        "jpMeaning": "おる",
+        "examples": [
+            {
+                "word": "織機",
+                "sound": "しょっき",
+                "meaning": "직기"
+            },
+            {
+                "word": "染織",
+                "sound": "せんしょく",
+                "meaning": "염직"
+            },
+            {
+                "word": "紡織",
+                "sound": "ぼうしょく",
+                "meaning": "방직"
+            },
+            {
+                "word": "組織",
+                "sound": "そしき",
+                "meaning": "조직"
+            },
+            {
+                "word": "織る",
+                "sound": "おる",
+                "meaning": "짜다"
+            },
+            {
+                "word": "織物",
+                "sound": "おりもの",
+                "meaning": "직물"
+            }
+        ]
+    },
+    {
+        "kanji": "質",
+        "hanja": "",
+        "eumhun": "바탕 질",
+        "jpSound": "しつ、しち、ち",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "質問",
+                "sound": "しつもん",
+                "meaning": "질문"
+            },
+            {
+                "word": "質実",
+                "sound": "しつじつ",
+                "meaning": "질실"
+            },
+            {
+                "word": "本質",
+                "sound": "ほんしつ",
+                "meaning": "본질"
+            },
+            {
+                "word": "質屋",
+                "sound": "しちや",
+                "meaning": "전당포"
+            },
+            {
+                "word": "人質",
+                "sound": "ひとじち",
+                "meaning": "인질"
+            },
+            {
+                "word": "言質",
+                "sound": "げんち",
+                "meaning": "언질"
+            }
+        ]
+    },
+    {
+        "kanji": "賛",
+        "hanja": "贊",
+        "eumhun": "도울 찬",
+        "jpSound": "さん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "賛成",
+                "sound": "さんせい",
+                "meaning": "찬성"
+            },
+            {
+                "word": "賛同",
+                "sound": "さんどう",
+                "meaning": "찬동"
+            },
+            {
+                "word": "称賛",
+                "sound": "しょうさん",
+                "meaning": "칭찬"
+            }
+        ]
+    },
+    {
+        "kanji": "採",
+        "hanja": "",
+        "eumhun": "캘 채",
+        "jpSound": "さい",
+        "jpMeaning": "とる",
+        "examples": [
+            {
+                "word": "採集",
+                "sound": "さいしゅう",
+                "meaning": "채집"
+            },
+            {
+                "word": "採用",
+                "sound": "さいよう",
+                "meaning": "채용"
+            },
+            {
+                "word": "採光",
+                "sound": "さいこう",
+                "meaning": "채광"
+            },
+            {
+                "word": "採る",
+                "sound": "とる",
+                "meaning": "뽑다"
+            }
+        ]
+    },
+    {
+        "kanji": "責",
+        "hanja": "",
+        "eumhun": "꾸짖을 책",
+        "jpSound": "せき",
+        "jpMeaning": "せめる",
+        "examples": [
+            {
+                "word": "責務",
+                "sound": "せきむ",
+                "meaning": "책무"
+            },
+            {
+                "word": "責任",
+                "sound": "せきにん",
+                "meaning": "책임"
+            },
+            {
+                "word": "職責",
+                "sound": "しょくせき",
+                "meaning": "직책"
+            },
+            {
+                "word": "責める",
+                "sound": "せめる",
+                "meaning": "비난하다, 괴롭히다, 재촉하다"
+            },
+            {
+                "word": "責め",
+                "sound": "せめ",
+                "meaning": "고통, 책임, 고문"
+            }
+        ]
+    },
+    {
+        "kanji": "妻",
+        "hanja": "",
+        "eumhun": "아내 처",
+        "jpSound": "さい",
+        "jpMeaning": "つま",
+        "examples": [
+            {
+                "word": "妻子",
+                "sound": "さいし",
+                "meaning": "처자"
+            },
+            {
+                "word": "夫妻",
+                "sound": "ふさい",
+                "meaning": "부처, 부부"
+            },
+            {
+                "word": "良妻",
+                "sound": "りょうさい",
+                "meaning": "양처"
+            },
+            {
+                "word": "妻",
+                "sound": "つま",
+                "meaning": "아내"
+            },
+            {
+                "word": "人妻",
+                "sound": "ひとづま",
+                "meaning": "남의 아내, 유부녀"
+            }
+        ]
+    },
+    {
+        "kanji": "招",
+        "hanja": "",
+        "eumhun": "부를 초",
+        "jpSound": "しょう",
+        "jpMeaning": "まねく",
+        "examples": [
+            {
+                "word": "招待",
+                "sound": "しょうたい",
+                "meaning": "초대"
+            },
+            {
+                "word": "招致",
+                "sound": "しょうち",
+                "meaning": "초치"
+            },
+            {
+                "word": "招請",
+                "sound": "しょうせい",
+                "meaning": "초청"
+            },
+            {
+                "word": "招く",
+                "sound": "まねく",
+                "meaning": "손짓하여 부르다, 초대하다"
+            },
+            {
+                "word": "招き",
+                "sound": "まねき",
+                "meaning": "초대, 간판이나 장식물"
+            }
+        ]
+    },
+    {
+        "kanji": "総",
+        "hanja": "總",
+        "eumhun": "다[皆] 총",
+        "jpSound": "そう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "総合",
+                "sound": "そうごう",
+                "meaning": "총합, 종합"
+            },
+            {
+                "word": "総意",
+                "sound": "そうい",
+                "meaning": "총의"
+            },
+            {
+                "word": "総括",
+                "sound": "そうかつ",
+                "meaning": "총괄"
+            }
+        ]
+    },
+    {
+        "kanji": "築",
+        "hanja": "",
+        "eumhun": "쌓을 축",
+        "jpSound": "ちく",
+        "jpMeaning": "きずく",
+        "examples": [
+            {
+                "word": "築港",
+                "sound": "ちくこう",
+                "meaning": "축항"
+            },
+            {
+                "word": "建築",
+                "sound": "けんちく",
+                "meaning": "건축"
+            },
+            {
+                "word": "改築",
+                "sound": "かいちく",
+                "meaning": "개축"
+            },
+            {
+                "word": "築く",
+                "sound": "きずく",
+                "meaning": "쌓다"
+            },
+            {
+                "word": "築き上げる",
+                "sound": "きずきあげる",
+                "meaning": "쌓아 올리다"
+            }
+        ]
+    },
+    {
+        "kanji": "測",
+        "hanja": "",
+        "eumhun": "헤아릴 측",
+        "jpSound": "そく",
+        "jpMeaning": "はかる",
+        "examples": [
+            {
+                "word": "測量",
+                "sound": "そくりょう",
+                "meaning": "측량"
+            },
+            {
+                "word": "目測",
+                "sound": "もくそく",
+                "meaning": "목측"
+            },
+            {
+                "word": "推測",
+                "sound": "すいそく",
+                "meaning": "추측"
+            },
+            {
+                "word": "測る",
+                "sound": "はかる",
+                "meaning": "재다"
+            }
+        ]
+    },
+    {
+        "kanji": "則",
+        "hanja": "",
+        "eumhun": "법칙 칙",
+        "jpSound": "そく",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "法則",
+                "sound": "ほうそく",
+                "meaning": "법칙"
+            },
+            {
+                "word": "鉄則",
+                "sound": "てっそく",
+                "meaning": "철칙"
+            },
+            {
+                "word": "変則",
+                "sound": "へんそく",
+                "meaning": "변칙"
+            }
+        ]
+    },
+    {
+        "kanji": "快",
+        "hanja": "",
+        "eumhun": "쾌할 쾌",
+        "jpSound": "かい",
+        "jpMeaning": "こころよい",
+        "examples": [
+            {
+                "word": "快活",
+                "sound": "かいかつ",
+                "meaning": "쾌활"
+            },
+            {
+                "word": "快晴",
+                "sound": "かいせい",
+                "meaning": "쾌청"
+            },
+            {
+                "word": "明快",
+                "sound": "めいかい",
+                "meaning": "명쾌"
+            },
+            {
+                "word": "快い",
+                "sound": "こころよい",
+                "meaning": "기분이 좋다"
+            }
+        ]
+    },
+    {
+        "kanji": "態",
+        "hanja": "",
+        "eumhun": "모습 태",
+        "jpSound": "たい",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "態勢",
+                "sound": "たいせい",
+                "meaning": "태세"
+            },
+            {
+                "word": "形態",
+                "sound": "けいたい",
+                "meaning": "형태"
+            },
+            {
+                "word": "容態",
+                "sound": "ようだい",
+                "meaning": "용태"
+            }
+        ]
+    },
+    {
+        "kanji": "統",
+        "hanja": "",
+        "eumhun": "거느릴 통",
+        "jpSound": "とう",
+        "jpMeaning": "すべる",
+        "examples": [
+            {
+                "word": "統一",
+                "sound": "とういつ",
+                "meaning": "통일"
+            },
+            {
+                "word": "統計",
+                "sound": "とうけい",
+                "meaning": "통계"
+            },
+            {
+                "word": "伝統",
+                "sound": "でんとう",
+                "meaning": "전통"
+            },
+            {
+                "word": "統べる",
+                "sound": "すべる",
+                "meaning": "총괄하다, 통솔하다"
+            }
+        ]
+    },
+    {
+        "kanji": "破",
+        "hanja": "",
+        "eumhun": "깨뜨릴 파",
+        "jpSound": "は",
+        "jpMeaning": "やぶる、やぶれる",
+        "examples": [
+            {
+                "word": "破壊",
+                "sound": "はかい",
+                "meaning": "파괴"
+            },
+            {
+                "word": "破産",
+                "sound": "はさん",
+                "meaning": "파산"
+            },
+            {
+                "word": "撃破",
+                "sound": "げきは",
+                "meaning": "격파"
+            },
+            {
+                "word": "破棄",
+                "sound": "はき",
+                "meaning": "파기"
+            },
+            {
+                "word": "破る",
+                "sound": "やぶる",
+                "meaning": "깨다"
+            },
+            {
+                "word": "型破り",
+                "sound": "かたやぶり",
+                "meaning": "관행을 깸, 색다름"
+            },
+            {
+                "word": "破れる",
+                "sound": "やぶれる",
+                "meaning": "깨지다, 찢어지다"
+            },
+            {
+                "word": "破れ",
+                "sound": "やぶれ",
+                "meaning": "깨짐, 찢어짐"
+            }
+        ]
+    },
+    {
+        "kanji": "判",
+        "hanja": "判",
+        "eumhun": "판단할 판",
+        "jpSound": "はん、ばん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "判定",
+                "sound": "はんてい",
+                "meaning": "판정"
+            },
+            {
+                "word": "判明",
+                "sound": "はんめい",
+                "meaning": "판명"
+            },
+            {
+                "word": "裁判",
+                "sound": "さいばん",
+                "meaning": "재판"
+            },
+            {
+                "word": "Ａ判",
+                "sound": "エーばん",
+                "meaning": "A판"
+            },
+            {
+                "word": "大判",
+                "sound": "おおばん",
+                "meaning": "대판"
+            }
+        ]
+    },
+    {
+        "kanji": "版",
+        "hanja": "",
+        "eumhun": "판목 판",
+        "jpSound": "はん",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "版画",
+                "sound": "はんが",
+                "meaning": "판화"
+            },
+            {
+                "word": "写真版",
+                "sound": "しゃしんばん",
+                "meaning": "사진판"
+            },
+            {
+                "word": "出版",
+                "sound": "しゅっぱん",
+                "meaning": "출판"
+            }
+        ]
+    },
+    {
+        "kanji": "編",
+        "hanja": "編",
+        "eumhun": "엮을 편",
+        "jpSound": "へん",
+        "jpMeaning": "あむ",
+        "examples": [
+            {
+                "word": "編集",
+                "sound": "へんしゅう",
+                "meaning": "편집"
+            },
+            {
+                "word": "編成",
+                "sound": "へんせい",
+                "meaning": "편성"
+            },
+            {
+                "word": "長編",
+                "sound": "ちょうへん",
+                "meaning": "장편"
+            },
+            {
+                "word": "編む",
+                "sound": "あむ",
+                "meaning": "뜨다, 엮다"
+            },
+            {
+                "word": "手編み",
+                "sound": "てあみ",
+                "meaning": "손으로 뜸"
+            }
+        ]
+    },
+    {
+        "kanji": "評",
+        "hanja": "評",
+        "eumhun": "평할 평",
+        "jpSound": "ひょう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "評価",
+                "sound": "ひょうか",
+                "meaning": "평가"
+            },
+            {
+                "word": "評判",
+                "sound": "ひょうばん",
+                "meaning": "평판"
+            },
+            {
+                "word": "定評",
+                "sound": "ていひょう",
+                "meaning": "정평"
+            }
+        ]
+    },
+    {
+        "kanji": "布",
+        "hanja": "",
+        "eumhun": "베/펼 포 | 보시 보",
+        "jpSound": "ふ",
+        "jpMeaning": "ぬの",
+        "examples": [
+            {
+                "word": "布陣",
+                "sound": "ふじん",
+                "meaning": "포진"
+            },
+            {
+                "word": "綿布",
+                "sound": "めんぷ",
+                "meaning": "면포"
+            },
+            {
+                "word": "分布",
+                "sound": "ぶんぷ",
+                "meaning": "분포"
+            },
+            {
+                "word": "布",
+                "sound": "ぬの",
+                "meaning": "천"
+            },
+            {
+                "word": "布地",
+                "sound": "ぬのじ",
+                "meaning": "천"
+            },
+            {
+                "word": "布目",
+                "sound": "ぬのめ",
+                "meaning": "올, 발"
+            }
+        ]
+    },
+    {
+        "kanji": "暴",
+        "hanja": "",
+        "eumhun": "사나울 폭 | 모질 포",
+        "jpSound": "ぼう、ばく",
+        "jpMeaning": "あばく、あばれる",
+        "examples": [
+            {
+                "word": "暴言",
+                "sound": "ぼうげん",
+                "meaning": "폭언"
+            },
+            {
+                "word": "横暴",
+                "sound": "おうぼう",
+                "meaning": "횡포"
+            },
+            {
+                "word": "乱暴",
+                "sound": "らんぼう",
+                "meaning": "난폭"
+            },
+            {
+                "word": "暴露",
+                "sound": "ばくろ",
+                "meaning": "폭로"
+            },
+            {
+                "word": "暴く",
+                "sound": "あばく",
+                "meaning": "파헤치다"
+            },
+            {
+                "word": "暴き出す",
+                "sound": "あばきだす",
+                "meaning": "들추어내다"
+            },
+            {
+                "word": "暴れる",
+                "sound": "あばれる",
+                "meaning": "날뛰다"
+            },
+            {
+                "word": "大暴れ",
+                "sound": "おおあばれ",
+                "meaning": "심하게 날뜀"
+            }
+        ]
+    },
+    {
+        "kanji": "豊",
+        "hanja": "",
+        "eumhun": "풍년 풍",
+        "jpSound": "ほう",
+        "jpMeaning": "ゆたか",
+        "examples": [
+            {
+                "word": "豊作",
+                "sound": "ほうさく",
+                "meaning": "풍작"
+            },
+            {
+                "word": "豊満",
+                "sound": "ほうまん",
+                "meaning": "풍만"
+            },
+            {
+                "word": "豊富",
+                "sound": "ほうふ",
+                "meaning": "풍부"
+            },
+            {
+                "word": "豊かだ",
+                "sound": "ゆたかだ",
+                "meaning": "풍부하다"
+            }
+        ]
+    },
+    {
+        "kanji": "河",
+        "hanja": "",
+        "eumhun": "물 하",
+        "jpSound": "か",
+        "jpMeaning": "かわ",
+        "examples": [
+            {
+                "word": "河川",
+                "sound": "かせん",
+                "meaning": "하천"
+            },
+            {
+                "word": "河口",
+                "sound": "かこう",
+                "meaning": "하구"
+            },
+            {
+                "word": "運河",
+                "sound": "うんが",
+                "meaning": "운하"
+            },
+            {
+                "word": "河",
+                "sound": "かわ",
+                "meaning": "강"
+            }
+        ]
+    },
+    {
+        "kanji": "限",
+        "hanja": "",
+        "eumhun": "한할 한",
+        "jpSound": "げん",
+        "jpMeaning": "かぎる",
+        "examples": [
+            {
+                "word": "限度",
+                "sound": "げんど",
+                "meaning": "한도"
+            },
+            {
+                "word": "制限",
+                "sound": "せいげん",
+                "meaning": "제한"
+            },
+            {
+                "word": "期限",
+                "sound": "きげん",
+                "meaning": "기한"
+            },
+            {
+                "word": "限る",
+                "sound": "かぎる",
+                "meaning": "경계를 짓다"
+            },
+            {
+                "word": "限り",
+                "sound": "かぎり",
+                "meaning": "한"
+            }
+        ]
+    },
+    {
+        "kanji": "航",
+        "hanja": "",
+        "eumhun": "배 항",
+        "jpSound": "こう",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "航海",
+                "sound": "こうかい",
+                "meaning": "항해"
+            },
+            {
+                "word": "航空",
+                "sound": "こうくう",
+                "meaning": "항공"
+            },
+            {
+                "word": "就航",
+                "sound": "しゅうこう",
+                "meaning": "취항"
+            }
+        ]
+    },
+    {
+        "kanji": "解",
+        "hanja": "",
+        "eumhun": "풀 해",
+        "jpSound": "かい、げ",
+        "jpMeaning": "とく、とかす、とける",
+        "examples": [
+            {
+                "word": "解決",
+                "sound": "かいけつ",
+                "meaning": "해결"
+            },
+            {
+                "word": "解禁",
+                "sound": "かいきん",
+                "meaning": "해금"
+            },
+            {
+                "word": "理解",
+                "sound": "りかい",
+                "meaning": "이해"
+            },
+            {
+                "word": "解脱",
+                "sound": "げだつ",
+                "meaning": "해탈"
+            },
+            {
+                "word": "解熱剤",
+                "sound": "げねつざい",
+                "meaning": "해열제"
+            },
+            {
+                "word": "解毒剤",
+                "sound": "げどくざい",
+                "meaning": "해독제"
+            },
+            {
+                "word": "解く",
+                "sound": "とく",
+                "meaning": "풀다"
+            },
+            {
+                "word": "解かす",
+                "sound": "とかす",
+                "meaning": "빗질하다"
+            },
+            {
+                "word": "解ける",
+                "sound": "とける",
+                "meaning": "풀리다"
+            }
+        ]
+    },
+    {
+        "kanji": "許",
+        "hanja": "",
+        "eumhun": "허락할 허",
+        "jpSound": "きょ",
+        "jpMeaning": "ゆるす",
+        "examples": [
+            {
+                "word": "許可",
+                "sound": "きょか",
+                "meaning": "허가"
+            },
+            {
+                "word": "許諾",
+                "sound": "きょだく",
+                "meaning": "허락"
+            },
+            {
+                "word": "特許",
+                "sound": "とっきょ",
+                "meaning": "특허"
+            },
+            {
+                "word": "許す",
+                "sound": "ゆるす",
+                "meaning": "허가하다, 용서하다"
+            },
+            {
+                "word": "許し",
+                "sound": "ゆるし",
+                "meaning": "허가, 용서"
+            }
+        ]
+    },
+    {
+        "kanji": "険",
+        "hanja": "險",
+        "eumhun": "험할 험",
+        "jpSound": "けん",
+        "jpMeaning": "けわしい",
+        "examples": [
+            {
+                "word": "険悪",
+                "sound": "けんあく",
+                "meaning": "험악"
+            },
+            {
+                "word": "危険",
+                "sound": "きけん",
+                "meaning": "위험"
+            },
+            {
+                "word": "保険",
+                "sound": "ほけん",
+                "meaning": "보험"
+            },
+            {
+                "word": "険しい",
+                "sound": "けわしい",
+                "meaning": "험하다"
+            },
+            {
+                "word": "険しさ",
+                "sound": "けわしさ",
+                "meaning": "험함"
+            }
+        ]
+    },
+    {
+        "kanji": "現",
+        "hanja": "",
+        "eumhun": "나타날 현",
+        "jpSound": "げん",
+        "jpMeaning": "あらわす",
+        "examples": [
+            {
+                "word": "現象",
+                "sound": "げんしょう",
+                "meaning": "현상"
+            },
+            {
+                "word": "現在",
+                "sound": "げんざい",
+                "meaning": "현재"
+            },
+            {
+                "word": "表現",
+                "sound": "ひょうげん",
+                "meaning": "표현"
+            },
+            {
+                "word": "現れる",
+                "sound": "あらわれる",
+                "meaning": "나타나다"
+            },
+            {
+                "word": "現れ",
+                "sound": "あらわれ",
+                "meaning": "표현, 결과"
+            },
+            {
+                "word": "現す",
+                "sound": "あらわす",
+                "meaning": "나타내다"
+            }
+        ]
+    },
+    {
+        "kanji": "型",
+        "hanja": "",
+        "eumhun": "모형 형",
+        "jpSound": "けい",
+        "jpMeaning": "かた",
+        "examples": [
+            {
+                "word": "原型",
+                "sound": "げんけい",
+                "meaning": "원형"
+            },
+            {
+                "word": "模型",
+                "sound": "もけい",
+                "meaning": "모형"
+            },
+            {
+                "word": "典型",
+                "sound": "てんけい",
+                "meaning": "전형"
+            },
+            {
+                "word": "型",
+                "sound": "かた",
+                "meaning": "형, 틀"
+            },
+            {
+                "word": "型紙",
+                "sound": "かたがみ",
+                "meaning": "형지, 종이 본"
+            },
+            {
+                "word": "血液型",
+                "sound": "けつえきがた",
+                "meaning": "혈액형"
+            }
+        ]
+    },
+    {
+        "kanji": "護",
+        "hanja": "護",
+        "eumhun": "도울 호",
+        "jpSound": "ご",
+        "jpMeaning": "無し",
+        "examples": [
+            {
+                "word": "護衛",
+                "sound": "ごえい",
+                "meaning": "호위"
+            },
+            {
+                "word": "救護",
+                "sound": "きゅうご",
+                "meaning": "구호"
+            },
+            {
+                "word": "保護",
+                "sound": "ほご",
+                "meaning": "보호"
+            }
+        ]
+    },
+    {
+        "kanji": "混",
+        "hanja": "",
+        "eumhun": "섞을 혼",
+        "jpSound": "こん",
+        "jpMeaning": "まじる、まざる、まぜる、こむ",
+        "examples": [
+            {
+                "word": "混合",
+                "sound": "こんごう",
+                "meaning": "혼합"
+            },
+            {
+                "word": "混雑",
+                "sound": "こんざつ",
+                "meaning": "혼잡"
+            },
+            {
+                "word": "混迷",
+                "sound": "こんめい",
+                "meaning": "혼미"
+            },
+            {
+                "word": "混じる",
+                "sound": "まじる",
+                "meaning": "섞이다"
+            },
+            {
+                "word": "混じり物",
+                "sound": "まじりもの",
+                "meaning": "혼합물"
+            },
+            {
+                "word": "混ざる",
+                "sound": "まざる",
+                "meaning": "섞이다"
+            },
+            {
+                "word": "混ぜる",
+                "sound": "まぜる",
+                "meaning": "섞다"
+            },
+            {
+                "word": "混ぜ物",
+                "sound": "まぜもの",
+                "meaning": "혼합물"
+            },
+            {
+                "word": "混む",
+                "sound": "こむ",
+                "meaning": "혼잡하다"
+            },
+            {
+                "word": "混み合う",
+                "sound": "こみあう",
+                "meaning": "혼잡하다"
+            },
+            {
+                "word": "人混み",
+                "sound": "ひとごみ",
+                "meaning": "붐빔"
+            }
+        ]
+    },
+    {
+        "kanji": "確",
+        "hanja": "",
+        "eumhun": "굳을 확",
+        "jpSound": "かく",
+        "jpMeaning": "たしか、たしかめる",
+        "examples": [
+            {
+                "word": "確定",
+                "sound": "かくてい",
+                "meaning": "확정"
+            },
+            {
+                "word": "確認",
+                "sound": "かくにん",
+                "meaning": "확인"
+            },
+            {
+                "word": "正確",
+                "sound": "せいかく",
+                "meaning": "정확"
+            },
+            {
+                "word": "確かだ",
+                "sound": "たしかだ",
+                "meaning": "확실하다"
+            },
+            {
+                "word": "確かさ",
+                "sound": "たしかさ",
+                "meaning": "확실함"
+            },
+            {
+                "word": "確かめる",
+                "sound": "たしかめる",
+                "meaning": "확인하다"
+            }
+        ]
+    },
+    {
+        "kanji": "効",
+        "hanja": "效",
+        "eumhun": "본받을 효",
+        "jpSound": "こう",
+        "jpMeaning": "きく",
+        "examples": [
+            {
+                "word": "効果",
+                "sound": "こうか",
+                "meaning": "효과"
+            },
+            {
+                "word": "効力",
+                "sound": "こうりょく",
+                "meaning": "효력"
+            },
+            {
+                "word": "時効",
+                "sound": "じこう",
+                "meaning": "시효"
+            },
+            {
+                "word": "効く",
+                "sound": "きく",
+                "meaning": "효과가 있다"
+            },
+            {
+                "word": "効き目",
+                "sound": "ききめ",
+                "meaning": "효력"
+            }
+        ]
+    },
+    {
+        "kanji": "厚",
+        "hanja": "",
+        "eumhun": "두터울 후",
+        "jpSound": "こう",
+        "jpMeaning": "あつい",
+        "examples": [
+            {
+                "word": "厚情",
+                "sound": "こうじょう",
+                "meaning": "후정"
+            },
+            {
+                "word": "厚生",
+                "sound": "こうせい",
+                "meaning": "후생"
+            },
+            {
+                "word": "濃厚",
+                "sound": "のうこう",
+                "meaning": "농후"
+            },
+            {
+                "word": "厚い",
+                "sound": "あつい",
+                "meaning": "두껍다"
+            },
+            {
+                "word": "厚み",
+                "sound": "あつみ",
+                "meaning": "두께"
+            }
+        ]
+    },
+    {
+        "kanji": "興",
+        "hanja": "",
+        "eumhun": "일[盛] 흥",
+        "jpSound": "こう、きょう",
+        "jpMeaning": "おこる、おこす",
+        "examples": [
+            {
+                "word": "興行",
+                "sound": "こうぎょう",
+                "meaning": "흥행"
+            },
+            {
+                "word": "復興",
+                "sound": "ふっこう",
+                "meaning": "부흥"
+            },
+            {
+                "word": "振興",
+                "sound": "しんこう",
+                "meaning": "진흥"
+            },
+            {
+                "word": "興味",
+                "sound": "きょうみ",
+                "meaning": "흥미"
+            },
+            {
+                "word": "興趣",
+                "sound": "きょうしゅ",
+                "meaning": "흥취"
+            },
+            {
+                "word": "余興",
+                "sound": "よきょう",
+                "meaning": "여흥"
+            },
+            {
+                "word": "興る",
+                "sound": "おこる",
+                "meaning": "흥하다"
+            },
+            {
+                "word": "興す",
+                "sound": "おこす",
+                "meaning": "흥하게 하다"
+            }
+        ]
+    },
+    {
+        "kanji": "喜",
+        "hanja": "",
+        "eumhun": "기쁠 희",
+        "jpSound": "き",
+        "jpMeaning": "よろこぶ",
+        "examples": [
+            {
+                "word": "喜劇",
+                "sound": "きげき",
+                "meaning": "희극"
+            },
+            {
+                "word": "悲喜",
+                "sound": "ひき",
+                "meaning": "희비"
+            },
+            {
+                "word": "歓喜",
+                "sound": "かんき",
+                "meaning": "환희"
+            },
+            {
+                "word": "喜ぶ",
+                "sound": "よろこぶ",
+                "meaning": "즐거워하다"
+            },
+            {
+                "word": "喜び",
+                "sound": "よろこび",
+                "meaning": "기쁨"
+            },
+            {
+                "word": "喜ばしい",
+                "sound": "よろこばしい",
+                "meaning": "기쁘다"
+            }
+        ]
+    }
+]

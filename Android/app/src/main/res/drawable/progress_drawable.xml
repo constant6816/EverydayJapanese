@@ -1,0 +1,31 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 배경색 -->
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="5dp"/>
+            <solid android:color="@color/bg3"/>
+        </shape>
+    </item>
+
+    <!-- 진행되지 않은 부분 색상 -->
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <corners android:radius="5dp"/>
+                <solid android:color="@color/bg0"/>
+            </shape>
+        </clip>
+    </item>
+
+    <!-- 진행 색상 -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="5dp"/>
+                <solid android:color="@color/fg0"/> <!-- 진행 색상 (빨강) -->
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

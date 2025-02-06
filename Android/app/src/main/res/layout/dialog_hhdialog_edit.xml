@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/space_m">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_rectangle_8dp"
+            android:clipToOutline="true"
+            android:backgroundTint="@color/bg3"
+            android:paddingTop="@dimen/space_xxl">
+
+            <TextView
+                android:id="@+id/textview_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/space_xl"
+                android:gravity="start"
+                style="@style/font_p1"
+                android:textColor="@color/fg3"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="@id/guideline_start"
+                app:layout_constraintEnd_toEndOf="@id/guideline_end"
+                app:layout_constraintBottom_toTopOf="@id/edittext_edit"
+                app:layout_constraintVertical_chainStyle="packed" />
+
+            <EditText
+                android:id="@+id/edittext_edit"
+                style="@style/font_p2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/space_xxl"
+                android:paddingVertical="@dimen/space_xxs"
+                android:paddingStart="@dimen/space_xs"
+                android:paddingEnd="@dimen/space_x6l"
+                android:gravity="start"
+                android:inputType="number"
+                android:textColor="@color/fg1"
+                android:background="@drawable/shape_rectangle_8dp"
+                android:backgroundTint="@color/bg0"
+                app:layout_constraintTop_toBottomOf="@id/textview_title"
+                app:layout_constraintStart_toStartOf="@id/guideline_start"
+                app:layout_constraintEnd_toEndOf="@id/guideline_end"
+                app:layout_constraintBottom_toTopOf="@id/linearlayout_buttons"
+                />
+
+            <LinearLayout
+                android:id="@+id/linearlayout_buttons"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@color/bg0"
+                app:layout_constraintTop_toBottomOf="@id/edittext_edit"
+                app:layout_constraintStart_toStartOf="@id/guideline_start"
+                app:layout_constraintEnd_toEndOf="@id/guideline_end"
+                app:layout_constraintBottom_toBottomOf="parent"
+                >
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/button_negative"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/button_height"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="@dimen/space_xs"
+                    android:background="@color/transparent"
+                    style="@style/font_p2"
+                    android:textColor="@color/fg1"
+                    />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/button_positive"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/button_height"
+                    android:layout_weight="1"
+                    android:background="@color/transparent"
+                    style="@style/font_p2"
+                    android:textColor="@color/fg1"
+                    />
+
+            </LinearLayout>
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_begin="@dimen/space_default" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline_end"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_end="@dimen/space_default" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+</layout>

@@ -1,0 +1,48 @@
+
+// Activity 만들때 함수
+    initializeVariables()
+    initializeViews()
+    requestRestAPI()
+
+    private fun initializeVariables() {
+    }
+
+    private fun initializeViews() {
+    }
+
+    private fun requestRestAPI() {
+    }
+
+
+
+    val adapter = HHActionSheetAdapter()
+    val actionSheetFragment = HHActionSheetFragment(adapter)
+    val actions = ArrayList<HHActionSheetAction>()
+    actions.add(
+        HHActionSheetAction(
+            baseContext.getString(R.string.common_modify),
+            null,
+            object : View.OnClickListener {
+                override fun onClick(view: View) {
+                    actionSheetFragment.dialog?.dismiss()
+                }
+            },
+        ),
+    )
+    adapter.setActions(actions)
+    actionSheetFragment.dialog?.getWindow()?.setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_VISIBLE)
+    actionSheetFragment.show(supportFragmentManager, nonNull(this::class.simpleName))
+
+
+
+    HHDialog(
+        this@ReplyActivity,
+        getString(R.string.board_question_delete_comment),
+        getString(
+            R.string.board_cannot_recover,
+        ),
+        getString(R.string.common_ok),
+        { _, _ ->
+
+        },
+    )

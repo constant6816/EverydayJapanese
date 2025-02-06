@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>android_review_version</key>
+        <value>1.01.02</value>
+    </entry>
+    <entry>
+        <key>android_reviewing</key>
+        <value>false</value>
+    </entry>
+
+    <entry>
+        <key>ios_review_version</key>
+        <value>1.01.02</value>
+    </entry>
+    <entry>
+        <key>ios_reviewing</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>server_under_maintenance_production</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>server_under_maintenance_stage</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>server_under_maintenance_develop</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>server_notice_message_prduction</key>
+        <value>서버 점검 중입니다.</value>
+    </entry>
+    <entry>
+        <key>server_notice_message_stage</key>
+        <value>서버 점검 중입니다.(ST)</value>
+    </entry>
+    <entry>
+        <key>server_notice_message_develop</key>
+        <value>서버 점검 중입니다.(DEV)</value>
+    </entry>
+    <entry>
+        <key>server_url_production</key>
+        <value>http://218.148.101.148:8086</value>
+    </entry>
+    <entry>
+        <key>server_url_stage</key>
+        <value>http://218.148.101.148:8087</value>
+    </entry>
+    <entry>
+        <key>server_url_develop</key>
+        <value>http://218.148.101.148:8088</value>
+    </entry>
+</defaultsMap>

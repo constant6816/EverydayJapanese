@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222488577854",
+    "project_id": "japaneseeveryday-cf1e8",
+    "storage_bucket": "japaneseeveryday-cf1e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222488577854:android:45f0696032b542abea4e6f",
+        "android_client_info": {
+          "package_name": "com.constant.japaneseeveryday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5X9CZ0z9dCSFm3QPW8ppepPCsQhhcd-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

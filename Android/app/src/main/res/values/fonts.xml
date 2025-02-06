@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="example">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:lineSpacingExtra">20dp</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="font_t0">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t0_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_t1">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t1_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_t2">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t2_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_t3">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t3_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="font_t4">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t4_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="font_t5">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t5_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="font_t6">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t6_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="font_t7">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t7_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="font_t8">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_t8_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+
+    <style name="font_h0">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h0_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_h1">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h1_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_h2">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h2_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_h3">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h3_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_h4">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h4_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_p0">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p0_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_p1">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p1_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_p2">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p2_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_p3">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p3_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_p4">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p4_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="font_later">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_later_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="font_h0b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h0_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_h1b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h1_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_h2b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h2_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_h3b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h3_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_h4b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_h4_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_p0b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p0_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_p1b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p1_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_p2b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p2_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_p3b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p3_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="font_p4b">
+        <item name="android:fontFamily">@font/font_pretendard</item>
+        <item name="android:textSize">@dimen/font_p4_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

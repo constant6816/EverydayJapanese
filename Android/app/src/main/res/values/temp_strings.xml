@@ -1,0 +1,11 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">에러 삭제를 위해</string>
+
+    <string name="kakao_app_key" translatable="false">310819a7d43b37a5edb4fcf7d79d3218</string>
+    <string name="kakao_kakao_app_key" translatable="false">kakao310819a7d43b37a5edb4fcf7d79d3218</string>
+    <string name="naver_client_id" translatable="false">EwQ8PlMZfH36fhljRWYS</string>
+    <string name="naver_client_secret" translatable="false">iTHvJ8AxBA</string>
+    <string name="default_notification_channel_id" translatable="false">com.constant.attendance.id</string>
+
+
+</resources>
