@@ -67,6 +67,7 @@ class HiraganaKatakanaPracticeViewController: UIViewController {
             vc.selected = selected
             vc.applySelected = { [weak self] index in
                 self?.selected = index
+                self?.drawingView.clear()
                 self?.initializeView()
             }
         }

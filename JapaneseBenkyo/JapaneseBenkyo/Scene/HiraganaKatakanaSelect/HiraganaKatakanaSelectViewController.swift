@@ -60,8 +60,7 @@ extension HiraganaKatakanaSelectViewController: UICollectionViewDelegate, UIColl
         guard let collectionData = collectionData else {
             return cell
         }
-//        cell.borderView.layer.borderColor = indexPath.row == selected ? UIColor.label.cgColor : UIColor.clear.cgColor
-        cell.borderView.backgroundColor = indexPath.row == selected ? UIColor.tertiarySystemBackground : UIColor.clear
+        cell.borderView.backgroundColor = indexPath.row == selected ? UIColor.tertiarySystemGroupedBackground : UIColor.clear
         cell.lbMain.text = collectionData[indexPath.row].0
         cell.lbSub.text = collectionData[indexPath.row].1
         return cell
