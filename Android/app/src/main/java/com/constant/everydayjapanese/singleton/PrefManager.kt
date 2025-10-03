@@ -3,7 +3,9 @@ package com.constant.everydayjapanese.singleton
 import android.content.Context
 import com.constant.everydayjapanese.BuildConfig
 import com.constant.everydayjapanese.basic.EverydayJapaneseApplication
+import com.constant.everydayjapanese.util.FrequencyEnum
 import com.constant.everydayjapanese.util.HHLog
+import com.constant.everydayjapanese.util.IndexEnum
 import com.constant.everydayjapanese.util.ServerEnum
 import com.constant.everydayjapanese.util.nonNull
 
@@ -41,6 +43,9 @@ enum class Pref {
     process,
     kanjiBookmark,
     vocabularyBookmark,
+
+    partToMemorize,
+    frequenceOfWordChange,
 }
 
 class PrefManager {
@@ -94,6 +99,9 @@ class PrefManager {
         defaultValueDic.put(Pref.donotDisplayNotificationPermission.name, false)
 //        defaultValueDic.put(Pref.accessToken3rd.name, null)
 
+        defaultValueDic.put(Pref.partToMemorize.name, IndexEnum.elementary1.id)
+        defaultValueDic.put(Pref.frequenceOfWordChange.name, FrequencyEnum.day.id)
+
         // key 입력
         stringKeys.add(Pref.loginType.name)
         stringKeys.add(Pref.oldLoginType.name)
@@ -114,6 +122,8 @@ class PrefManager {
 
         // int
         intKeys.add(Pref.userId.name)
+        intKeys.add(Pref.partToMemorize.name)
+        intKeys.add(Pref.frequenceOfWordChange.name)
 
         // boolean
         booleanKeys.add(Pref.logEnable.name)

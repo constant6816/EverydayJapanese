@@ -14,7 +14,7 @@ class SentenceResponseEntity {
         val transcriptions: Array<TranscriptionEntity>? = null
 
         @SerializedName("translations")
-        val translations: Array<Array<TranslationEntity>>? = null
+        val translations: Array<TranslationEntity>? = null
     }
 
     inner class TranscriptionEntity {

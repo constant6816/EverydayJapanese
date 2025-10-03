@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/space_xxs"
+        android:paddingBottom="@dimen/space_xxs"
+        android:layout_marginHorizontal="@dimen/space_x4s"
+        >
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textview_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/font_p1"
+                android:textColor="@color/fg1"
+                />
+
+            <TextView
+                android:id="@+id/textview_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/font_p2"
+                android:textColor="@color/fg_green"
+                />
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/imageview_disclosure"
+            android:src="@drawable/img_dark_disclosure_indicator"
+            android:tint="@color/fg1"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/space_x6s" />
+    </LinearLayout>
+    <View
+        android:id="@+id/view_seperator"
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="@dimen/space_x4s"
+        android:layout_height="1dp"
+        android:layout_gravity="bottom"
+        android:background="@color/fg7" />
+</FrameLayout>

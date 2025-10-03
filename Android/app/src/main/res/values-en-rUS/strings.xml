@@ -29,6 +29,7 @@
 	<string name="common_next">Next</string>
 	<string name="common_continue">Continue</string>
 	<string name="common_goto_setting">Go to setting</string>
+	<string name="common_setting">Setting</string>
 
 	<!-- Core -->
 	<string name="app_name">Japanese Everyday</string>
@@ -92,12 +93,12 @@
 	<string name="n_points">%d points</string>
 	<string name="test">Test</string>
 	<string name="test_result">Test result</string>
-
-
-
-
-
-
+	<string name="app_widget_description">You can study with app widget everyday.</string>
+	<string name="everyday">everyday</string>
+	<string name="one_hour">1 hour</string>
+	<string name="part_memorize">part to memorize</string>
+	<string name="frequency_word_change">frequency of word change</string>
+	<string name="no_words_registered_favorites">There are no words registered in favorites</string>
 
 
 

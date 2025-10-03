@@ -15,7 +15,7 @@ class SentenceModel {
         text = nonNull(sentenceResponseEntity.data?.get(0)?.text)
         rubyText = nonNull(sentenceResponseEntity.data?.get(0)?.transcriptions?.get(0)?.text)
         html = nonNull(sentenceResponseEntity.data?.get(0)?.transcriptions?.get(0)?.html)
-        trans = nonNull(sentenceResponseEntity.data?.get(0)?.translations?.get(1)?.get(0)?.text)
+        trans = nonNull(sentenceResponseEntity.data?.get(0)?.translations?.get(0)?.text)
     }
 
     override fun toString(): String {

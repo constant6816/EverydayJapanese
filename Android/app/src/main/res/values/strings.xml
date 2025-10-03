@@ -29,6 +29,7 @@
 	<string name="common_next">다음</string>
 	<string name="common_continue">계속</string>
 	<string name="common_goto_setting">설정하기</string>
+	<string name="common_setting">설정</string>
 
 	<!-- Core -->
 	<string name="app_name">매일 일본어</string>
@@ -92,12 +93,12 @@
 	<string name="n_points">%d점</string>
 	<string name="test">테스트</string>
 	<string name="test_result">테스트 결과</string>
-
-
-
-
-
-
+	<string name="app_widget_description">매일 매일 앱위젯으로 단어를 공부해 보세요 </string>
+	<string name="everyday">매일</string>
+	<string name="one_hour">1시간</string>
+	<string name="part_memorize">암기할 부분</string>
+	<string name="frequency_word_change">단어 변경 주기</string>
+	<string name="no_words_registered_favorites">즐겨찾기에 등록된 단어가 없어요</string>
 
 
 

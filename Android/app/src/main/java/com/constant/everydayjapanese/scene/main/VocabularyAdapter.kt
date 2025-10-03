@@ -80,7 +80,6 @@ class VocabularyAdapter(
 //                                vocabularyForCell.exampleText = "<ruby>Android<rt>アンドロイド</rt></ruby>は、<ruby>Google<rt>グーグル</rt></ruby>が<ruby>開発<rt>かいはつ</rt></ruby>した<ruby>携帯汎用<rt>けいたいはんよう</rt></ruby>안녕"
 //                                vocabularyForCell.isExpanded = !vocabularyForCell.isExpanded
 //                                vocabularyAdapter.notifyItemChanged(position)
-
                         GlobalVariable.getInstance().tatoebaRepository.getSentence(context, vocabularyForCell.vocabulary.word)
                             .subscribe({ sentenceModel ->
                                 HHLog.d(TAG, "sentenceModel.html = ${sentenceModel.html}")

@@ -11,7 +11,7 @@
         android:scaleType="fitCenter"
         />
 
-    <com.constant.attendance.view.calendar.DateTextView
+    <com.constant.everydayjapanese.view.calendar.DateTextView
         android:id="@+id/textview_day"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

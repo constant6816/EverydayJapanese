@@ -7,10 +7,12 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.TouchDelegate
 import android.view.View
+import android.view.ViewGroup
 import android.widget.FrameLayout
 import android.widget.ImageButton
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.core.view.marginRight
 import com.constant.everydayjapanese.R
 import com.constant.everydayjapanese.util.HHLog
 import com.constant.everydayjapanese.util.HHStyle
@@ -50,6 +52,7 @@ class NavigationView : FrameLayout {
     object Style {
         val none = 0
         val progress = 1 shl 0
+        val onlyTitle = 1 shl 1
     }
 
     // companion object
@@ -176,6 +179,17 @@ class NavigationView : FrameLayout {
 //                lbTitle.alpha = 1
 //            }
 //        }
+        if (style.isInclude(NavigationView.Style.onlyTitle)) {
+            val marginInDp = 10
+            val scale = textviewTitle.context.resources.displayMetrics.density
+            val marginInPx = (marginInDp * scale).toInt()
+            val params = textviewTitle.layoutParams as ViewGroup.MarginLayoutParams
+            params.rightMargin = marginInPx
+            textviewTitle.layoutParams = params
+
+            textviewDescription.visibility = View.GONE
+            imageviewIcon.visibility = View.GONE
+        }
     }
 
     private fun reloadBackgroundType() {

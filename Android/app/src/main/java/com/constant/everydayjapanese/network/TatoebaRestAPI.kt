@@ -28,7 +28,7 @@ class TatoebaRestAPI(private val context: Context, private val style: HHStyle) {
             @Query("limit")limit: Int,
             @Query("trans:lang")trans: String,
             @Query("sort")sort: String,
-            @Query("showtrans")showtrans: String,
+            @Query("showtrans:lang")showtrans: String,
         ): Call<SentenceResponseEntity>
     }
 
@@ -58,7 +58,7 @@ class TatoebaRestAPI(private val context: Context, private val style: HHStyle) {
         @Query("limit")limit: Int,
         @Query("trans:lang")trans: String,
         @Query("sort")sort: String,
-        @Query("showtrans")showtrans: String,
+        @Query("showtrans:lang")showtrans: String,
     ): Observable<SentenceResponseEntity> {
         var loadingDialog: LoadingDialog? = null
         if (style.isInclude(TatoebaRepository.Style.loadingSpinner)) {

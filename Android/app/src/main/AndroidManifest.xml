@@ -16,6 +16,23 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
+            android:name=".scene.main.SettingActivity"
+            android:exported="true" >
+        </activity>
+
+        <receiver
+            android:name=".widget.EverydayJapaneseAppWidget"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/everyday_japanese_app_widget_info" />
+        </receiver>
+
+        <activity
             android:name=".scene.main.HiraganaKatakanaPracticeActivity"
             android:exported="false" />
         <activity
@@ -27,6 +44,7 @@
         <activity
             android:name=".scene.main.MainActivity"
             android:exported="true"
+            android:launchMode="singleTop"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -142,7 +142,7 @@ enum class IndexEnum(val id: Int, val title: String) {
         }
     }
 
-    fun getSection(): SectionEnum? {
+    fun getSection(): SectionEnum {
         when (this) {
             IndexEnum.hiragana, IndexEnum.katakana -> {
                 return SectionEnum.hiraganakatagana
@@ -187,6 +187,14 @@ enum class IndexEnum(val id: Int, val title: String) {
             }
         }
     }
+
+    fun getSettingTitle(): String {
+        var retTitle = title
+        if (this == IndexEnum.kanjiBookmark || this == IndexEnum.vocabularyBookmark) {
+            retTitle = "${getSection().title} ${title}"
+        }
+        return retTitle
+    }
 }
 
 enum class SectionEnum(val id: Int, val title: String) {
@@ -205,6 +213,24 @@ enum class SectionEnum(val id: Int, val title: String) {
 
         fun ofRaw(raw: Int): SectionEnum {
             return rawToEnum[raw] ?: SectionEnum.hiraganakatagana
+        }
+    }
+}
+
+enum class FrequencyEnum(val id: Int, val title: String) {
+    day(0, EverydayJapaneseApplication.context.getString(R.string.everyday)),
+    hour(1, EverydayJapaneseApplication.context.getString(R.string.one_hour)),
+    ;
+
+    companion object {
+        val rawToEnum =
+            mapOf(
+                FrequencyEnum.day.id to FrequencyEnum.day,
+                FrequencyEnum.hour.id to FrequencyEnum.hour,
+            )
+
+        fun ofRaw(raw: Int): FrequencyEnum {
+            return rawToEnum[raw] ?: FrequencyEnum.day
         }
     }
 }
