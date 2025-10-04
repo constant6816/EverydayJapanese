@@ -14,6 +14,8 @@ import android.view.WindowManager
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.constant.everydayjapanese.R
 import com.constant.everydayjapanese.databinding.ActivitySettingBinding
@@ -276,6 +278,11 @@ class SettingActivity : AppCompatActivity() {
             )
             recyclerview.adapter = adapter
             adapter.notifyDataSetChanged()
+        }
+        ViewCompat.setOnApplyWindowInsetsListener(binding.root) { v, insets ->
+            val statusBarInsets = insets.getInsets(WindowInsetsCompat.Type.statusBars())
+            v.setPadding(0, statusBarInsets.top, 0, 0)
+            insets
         }
     }
 

@@ -3,6 +3,8 @@ package com.constant.everydayjapanese.scene.main
 import android.os.Bundle
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import com.constant.everydayjapanese.R
 import com.constant.everydayjapanese.databinding.ActivityHiraganaKatakanaPracticeBinding
 import com.constant.everydayjapanese.util.Coordinate
@@ -50,6 +52,11 @@ class HiraganaKatakanaPracticeActivity : AppCompatActivity() {
             val layoutParams = framelayoutCharacter.layoutParams ?: ViewGroup.LayoutParams(0, 0)
             layoutParams.height = Coordinate.getWidth() - 2 * resources.getDimensionPixelSize(R.dimen.space_m)
             framelayoutCharacter.layoutParams = layoutParams
+        }
+        ViewCompat.setOnApplyWindowInsetsListener(binding.root) { v, insets ->
+            val statusBarInsets = insets.getInsets(WindowInsetsCompat.Type.statusBars())
+            v.setPadding(0, statusBarInsets.top, 0, 0)
+            insets
         }
     }
 }

@@ -6,6 +6,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@color/bg3"
         tools:context=".scene.main.StudyActivity">
 
         <com.constant.everydayjapanese.view.NavigationView
@@ -21,7 +22,6 @@
             android:id="@+id/linearlayout_buttons"
             android:layout_width="match_parent"
             android:layout_height="@dimen/icon_size_l"
-            android:background="@color/bg3"
             android:orientation="horizontal"
             android:paddingHorizontal="@dimen/space_m"
             app:layout_constraintBottom_toTopOf="@id/recyclerview"

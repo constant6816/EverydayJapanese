@@ -7,7 +7,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:background="@color/bg0"
+            android:background="@color/bg3"
             tools:context=".scene.main.SettingActivity">
 
                 <com.constant.everydayjapanese.view.NavigationView
@@ -21,6 +21,7 @@
                     android:layout_height="0dp"
                     android:layout_weight="1"
                     android:layout_marginHorizontal="@dimen/space_x5s"
+                    android:background="@color/bg0"
                     android:orientation="vertical"
                     app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
                     />

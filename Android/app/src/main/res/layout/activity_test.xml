@@ -6,9 +6,17 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/bg0"
+        android:background="@color/bg3"
         tools:context=".scene.main.StudyActivity">
-
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bg0"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/navigationview"
+            app:layout_constraintBottom_toBottomOf="parent"
+            />
         <com.constant.everydayjapanese.view.NavigationView
             android:id="@+id/navigationview"
             android:layout_width="match_parent"

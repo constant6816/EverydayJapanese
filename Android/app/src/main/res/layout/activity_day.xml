@@ -6,6 +6,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@color/bg3"
         tools:context=".scene.main.DayActivity">
 
         <com.constant.everydayjapanese.view.NavigationView
@@ -26,7 +27,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/navigationview"
             android:orientation="horizontal"
-            android:background="@color/bg3"
             android:paddingHorizontal="@dimen/space_m"
             >
 

@@ -4,6 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import com.constant.everydayjapanese.R
 import com.constant.everydayjapanese.databinding.ActivityTestBinding
 import com.constant.everydayjapanese.model.Kanji
@@ -122,6 +124,11 @@ class TestActivity : AppCompatActivity() {
                 }
             }
             showText(false)
+        }
+        ViewCompat.setOnApplyWindowInsetsListener(binding.root) { v, insets ->
+            val statusBarInsets = insets.getInsets(WindowInsetsCompat.Type.statusBars())
+            v.setPadding(0, statusBarInsets.top, 0, 0)
+            insets
         }
         updateTestField()
     }
