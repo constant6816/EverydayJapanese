@@ -71,8 +71,8 @@ class StudyActivity : AppCompatActivity() {
     // Public Variable
     // Private Variable
     private lateinit var binding: ActivityStudyBinding
-    private lateinit var kanjiAdapter: KanjiAdapter
-    private lateinit var vocabularyAdapter: VocabularyAdapter
+    private var kanjiAdapter: KanjiAdapter? = null
+    private var vocabularyAdapter: VocabularyAdapter? = null
 
     // Param
     private lateinit var param: Param
@@ -162,10 +162,10 @@ class StudyActivity : AppCompatActivity() {
             buttonShuffle.setOnClickListener {
                 when (param.indexEnum.getSection()) {
                     SectionEnum.kanji -> {
-                        kanjiAdapter.shuffle()
+                        kanjiAdapter?.shuffle()
                     }
                     SectionEnum.vocabulary -> {
-                        vocabularyAdapter.shuffle()
+                        vocabularyAdapter?.shuffle()
                     }
                     else -> {
                         HHLog.d(TAG, "do nothing!")
@@ -176,10 +176,10 @@ class StudyActivity : AppCompatActivity() {
             buttonAllVisible.setOnClickListener {
                 when (param.indexEnum.getSection()) {
                     SectionEnum.kanji -> {
-                        kanjiAdapter.toggleAllVisible()
+                        kanjiAdapter?.toggleAllVisible()
                     }
                     SectionEnum.vocabulary -> {
-                        vocabularyAdapter.toggleAllVisible()
+                        vocabularyAdapter?.toggleAllVisible()
                     }
                     else -> {
                         HHLog.d(TAG, "do nothing!")
@@ -196,28 +196,29 @@ class StudyActivity : AppCompatActivity() {
                     SectionEnum.kanji -> {
                         param.kanjis?.let { kanjis ->
                             intent.putExtra(TestActivity.EXTRA_KANJIS, ArrayList(kanjis))
+                            startActivity(intent)
                         }
                     }
                     SectionEnum.vocabulary -> {
                         param.vocabularies?.let { vocabularies ->
                             intent.putExtra(TestActivity.EXTRA_VOCABULARIES, ArrayList(vocabularies))
+                            startActivity(intent)
                         }
                     }
                     else -> {
                         HHLog.d(TAG, "do nothing!")
                     }
                 }
-                startActivity(intent)
             }
 
             if (param.indexEnum.getSection() == SectionEnum.kanji || 0 < nonNull(kanjisForCell?.size)) {
                 kanjisForCell?.let { kanjisForCell ->
                     kanjiAdapter = KanjiAdapter(this@StudyActivity, kanjisForCell, kanjiBookmarks)
-                    kanjiAdapter.setOnSelectItemListener(
+                    kanjiAdapter?.setOnSelectItemListener(
                         object : OnSelectItemListener {
                             override fun onSelectItem(position: Int) {
                                 kanjisForCell.get(position).isVisible = !kanjisForCell.get(position).isVisible
-                                kanjiAdapter.notifyItemChanged(position)
+                                kanjiAdapter?.notifyItemChanged(position)
                             }
                         },
                     )
@@ -227,11 +228,11 @@ class StudyActivity : AppCompatActivity() {
                 { // vocabulary
                     vocabulariesForCell?.let { vocabulariesForCell ->
                         vocabularyAdapter = VocabularyAdapter(this@StudyActivity, vocabulariesForCell, vocabularyBookmarks)
-                        vocabularyAdapter.setOnSelectItemListener(
+                        vocabularyAdapter?.setOnSelectItemListener(
                             object : OnSelectItemListener {
                                 override fun onSelectItem(position: Int) {
                                     vocabulariesForCell.get(position)?.isVisible = !vocabulariesForCell.get(position).isVisible
-                                    vocabularyAdapter.notifyItemChanged(position)
+                                    vocabularyAdapter?.notifyItemChanged(position)
                                 }
                             },
                         )
